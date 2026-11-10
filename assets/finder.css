@@ -168,3 +168,23 @@ body{
   .spec tr td:last-child{border-bottom:none}
   .spec td::before{content:attr(data-th);color:var(--muted);font-size:11.5px;flex:0 0 auto}
 }
+/* ---- tyre finder (tires/) — additive; filters/ and pads/ never use these classes ---- */
+.fd-title.ico-tire::before{display:block;
+  -webkit-mask:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='white'><path fill-rule='evenodd' d='M12 1.5a10.5 10.5 0 1 1 0 21 10.5 10.5 0 0 1 0-21zm0 4.5a6 6 0 1 0 0 12 6 6 0 0 0 0-12zm0 3.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5z'/></svg>") center/17px no-repeat;
+          mask:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='white'><path fill-rule='evenodd' d='M12 1.5a10.5 10.5 0 1 1 0 21 10.5 10.5 0 0 1 0-21zm0 4.5a6 6 0 1 0 0 12 6 6 0 0 0 0-12zm0 3.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5z'/></svg>") center/17px no-repeat;}
+.tire-pos{margin-top:16px}
+.tc{margin-bottom:10px}
+.tc>.opt{margin-bottom:0}
+.tc.has-install>.opt{border-radius:12px 12px 0 0}
+/* the 合作車行安裝 twin: a sibling link under the card, never nested inside its <a> */
+.opt-install{
+  display:flex;align-items:center;justify-content:space-between;gap:12px;
+  border:1.5px solid var(--line);border-top:none;border-radius:0 0 12px 12px;
+  padding:10px 14px;background:var(--soft);color:var(--navy);text-decoration:none;font-size:13px;
+}
+.opt-install:hover{border-color:var(--navy)}
+.opt-install .oi-main{flex:1;min-width:0}
+.opt-install b{font-weight:700}
+.opt-install small{display:block;color:var(--muted);font-size:11.5px;line-height:1.5;margin-top:2px}
+.opt-install .oi-price{font-weight:800;font-size:15px;white-space:nowrap}
+.opt-price .was{text-decoration:line-through}

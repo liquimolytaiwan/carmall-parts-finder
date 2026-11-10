@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>輪胎快速查詢 | CarMall</title>
+<meta name="description" content="選擇摩托車廠牌與車款，查到原廠前後輪尺寸與適用的 ARISUN 輪胎並直接購買" />
+<link rel="preconnect" href="https://www.carmall.com.tw" />
+<link rel="stylesheet" href="../assets/finder.css" />
+</head>
+<body>
+<div class="fd" id="fd">
+  <a class="fd-back" id="back-hub" href="https://liquimolytaiwan.github.io/carmall-parts-finder/" hidden>← 換別的商品</a>
+  <header class="fd-head">
+    <h1 class="fd-title ico-tire">輪胎快速查詢</h1>
+    <p class="fd-sub">選擇廠牌、車款，查到原廠輪胎尺寸與適用的輪胎並一鍵購買</p>
+  </header>
+
+  <div class="fd-steps">
+    <label class="fd-field">
+      <span class="fd-label"><i>1</i> 廠牌</span>
+      <span class="fd-select">
+        <select id="sel-brand" aria-label="選擇摩托車廠牌">
+          <option value="">載入中…</option>
+        </select>
+      </span>
+    </label>
+
+    <label class="fd-field">
+      <span class="fd-label"><i>2</i> 車款</span>
+      <span class="fd-select">
+        <select id="sel-model" aria-label="選擇車款" disabled>
+          <option value="">請先選擇廠牌</option>
+        </select>
+      </span>
+    </label>
+  </div>
+
+  <div id="result" class="fd-result" hidden></div>
+
+  <p class="fd-foot">
+    適用資料來源：ARISUN 商品頁之常見車款尺寸對照。購買前請核對輪胎側面的尺寸。<br>
+    價格與庫存每日同步，實際成交以商品頁面為準。
+  </p>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

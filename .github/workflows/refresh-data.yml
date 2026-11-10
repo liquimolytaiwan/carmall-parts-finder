@@ -34,6 +34,7 @@ jobs:
         run: |
           python tests/test_build_filters.py
           python tests/test_build_pads.py
+          python tests/test_build_tires.py
 
       # Each finder builds independently: one brand's broken page must not stop the other
       # finders' prices from updating. A refusal (1) leaves that finder's data.json as it was.
@@ -41,7 +42,7 @@ jobs:
         id: build
         run: |
           worst=0
-          for b in filters pads; do
+          for b in filters pads tires; do
             set +e
             python "tools/build_$b.py"
             rc=$?
@@ -55,7 +56,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add filters/data.json pads/data.json
+          git add filters/data.json pads/data.json tires/data.json
           if git diff --cached --quiet; then
             echo "no changes"
             exit 0

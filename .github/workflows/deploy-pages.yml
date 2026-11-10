@@ -47,7 +47,9 @@ jobs:
         run: |
           python3 - <<'PY'
           import json, sys
-          MIN_MODELS = {"filters": 100, "pads": 100}
+          # tires: 23 models on 2026-11-10, 21 once the RS01+RS02 set is taken down (AEON STR 250/300
+          # are listed only on the set page) — the floor sits below that.
+          MIN_MODELS = {"filters": 100, "pads": 100, "tires": 15}
           for name, floor in MIN_MODELS.items():
               d = json.load(open(f"{name}/data.json"))
               models = sum(len(b["models"]) for b in d["brands"])

@@ -1,0 +1,1138 @@
+{
+ "generated": "2026-11-10T05:20:31Z",
+ "source": "CarMall ARISUN 輪胎商品頁之常見車款尺寸對照表",
+ "category_url": "https://www.carmall.com.tw/categories/brandlist/arisun",
+ "stats": {
+  "products": 4,
+  "rows": 108,
+  "models": 23,
+  "skipped": 0,
+  "carried": 0,
+  "gone": 0
+ },
+ "offers": [
+  {
+   "product_id": 72972502,
+   "title": "ARISUN SK1｜全天候半熱熔胎",
+   "url": "https://www.carmall.com.tw/products/arisun-sk1全天候半熱熔胎?variant=89888914",
+   "price": 1900.0,
+   "qty": 5,
+   "available": true,
+   "variant_id": 89888914,
+   "kind": "single",
+   "line": "SK1",
+   "size": "110/70-12",
+   "position": null,
+   "choose": [
+    "110/70-12"
+   ],
+   "type": "全天候半熱熔胎",
+   "install": 90612401
+  },
+  {
+   "product_id": 72972502,
+   "title": "ARISUN SK1｜全天候半熱熔胎",
+   "url": "https://www.carmall.com.tw/products/arisun-sk1全天候半熱熔胎?variant=89888915",
+   "price": 2000.0,
+   "qty": 5,
+   "available": true,
+   "variant_id": 89888915,
+   "kind": "single",
+   "line": "SK1",
+   "size": "120/70-12",
+   "position": null,
+   "choose": [
+    "120/70-12"
+   ],
+   "type": "全天候半熱熔胎",
+   "install": 90612402
+  },
+  {
+   "product_id": 72972502,
+   "title": "ARISUN SK1｜全天候半熱熔胎",
+   "url": "https://www.carmall.com.tw/products/arisun-sk1全天候半熱熔胎?variant=89888916",
+   "price": 2100.0,
+   "qty": 5,
+   "available": true,
+   "variant_id": 89888916,
+   "kind": "single",
+   "line": "SK1",
+   "size": "130/70-12",
+   "position": "後輪",
+   "choose": [
+    "後輪 130/70-12"
+   ],
+   "type": "全天候半熱熔胎",
+   "install": 90612403
+  },
+  {
+   "product_id": 72972502,
+   "title": "ARISUN SK1｜全天候半熱熔胎",
+   "url": "https://www.carmall.com.tw/products/arisun-sk1全天候半熱熔胎?variant=89888917",
+   "price": 2000.0,
+   "qty": 5,
+   "available": true,
+   "variant_id": 89888917,
+   "kind": "single",
+   "line": "SK1",
+   "size": "110/70-13",
+   "position": null,
+   "choose": [
+    "110/70-13"
+   ],
+   "type": "全天候半熱熔胎",
+   "install": 90612404
+  },
+  {
+   "product_id": 72972502,
+   "title": "ARISUN SK1｜全天候半熱熔胎",
+   "url": "https://www.carmall.com.tw/products/arisun-sk1全天候半熱熔胎?variant=89888918",
+   "price": 2200.0,
+   "qty": 5,
+   "available": true,
+   "variant_id": 89888918,
+   "kind": "single",
+   "line": "SK1",
+   "size": "120/70-13",
+   "position": null,
+   "choose": [
+    "120/70-13"
+   ],
+   "type": "全天候半熱熔胎",
+   "install": 90612405
+  },
+  {
+   "product_id": 72972502,
+   "title": "ARISUN SK1｜全天候半熱熔胎",
+   "url": "https://www.carmall.com.tw/products/arisun-sk1全天候半熱熔胎?variant=89888919",
+   "price": 2300.0,
+   "qty": 5,
+   "available": true,
+   "variant_id": 89888919,
+   "kind": "single",
+   "line": "SK1",
+   "size": "130/70-13",
+   "position": "後輪",
+   "choose": [
+    "後輪 130/70-13"
+   ],
+   "type": "全天候半熱熔胎",
+   "install": 90612406
+  },
+  {
+   "product_id": 72972502,
+   "title": "ARISUN SK1｜全天候半熱熔胎",
+   "url": "https://www.carmall.com.tw/products/arisun-sk1全天候半熱熔胎?variant=89888920",
+   "price": 2100.0,
+   "qty": 5,
+   "available": true,
+   "variant_id": 89888920,
+   "kind": "single",
+   "line": "SK1",
+   "size": "100/80-14",
+   "position": null,
+   "choose": [
+    "100/80-14"
+   ],
+   "type": "全天候半熱熔胎",
+   "install": 90612407
+  },
+  {
+   "product_id": 72972502,
+   "title": "ARISUN SK1｜全天候半熱熔胎",
+   "url": "https://www.carmall.com.tw/products/arisun-sk1全天候半熱熔胎?variant=89888921",
+   "price": 2300.0,
+   "qty": 5,
+   "available": true,
+   "variant_id": 89888921,
+   "kind": "single",
+   "line": "SK1",
+   "size": "110/70-17",
+   "position": "前輪",
+   "choose": [
+    "前輪 110/70-17"
+   ],
+   "type": "全天候半熱熔胎",
+   "install": 90612408
+  },
+  {
+   "product_id": 72972502,
+   "title": "ARISUN SK1｜全天候半熱熔胎",
+   "url": "https://www.carmall.com.tw/products/arisun-sk1全天候半熱熔胎?variant=89888922",
+   "price": 2700.0,
+   "qty": 5,
+   "available": true,
+   "variant_id": 89888922,
+   "kind": "single",
+   "line": "SK1",
+   "size": "140/70-17",
+   "position": "後輪",
+   "choose": [
+    "後輪 140/70-17"
+   ],
+   "type": "全天候半熱熔胎",
+   "install": 90612409
+  },
+  {
+   "product_id": 72973329,
+   "title": "ARISUN RS01／RS02｜競賽級熱熔胎",
+   "url": "https://www.carmall.com.tw/products/arisun-rs01rs02競賽級全熱熔胎?variant=89891512",
+   "price": 2100.0,
+   "qty": 5,
+   "available": true,
+   "variant_id": 89891512,
+   "kind": "single",
+   "line": "RS01",
+   "size": "100/90-12",
+   "position": "前輪",
+   "choose": [
+    "RS01前輪",
+    "100/90-12"
+   ],
+   "type": "全熱熔胎",
+   "caveat": "本系列以賽道競技與賽道日使用為定位，購買前請確認使用需求及道路使用法規。"
+  },
+  {
+   "product_id": 72973329,
+   "title": "ARISUN RS01／RS02｜競賽級熱熔胎",
+   "url": "https://www.carmall.com.tw/products/arisun-rs01rs02競賽級全熱熔胎?variant=89891513",
+   "price": 2100.0,
+   "qty": 5,
+   "available": true,
+   "variant_id": 89891513,
+   "kind": "single",
+   "line": "RS01",
+   "size": "120/70-13",
+   "position": "前輪",
+   "choose": [
+    "RS01前輪",
+    "120/70-13"
+   ],
+   "type": "半熱熔胎",
+   "caveat": "本系列以賽道競技與賽道日使用為定位，購買前請確認使用需求及道路使用法規。"
+  },
+  {
+   "product_id": 72973329,
+   "title": "ARISUN RS01／RS02｜競賽級熱熔胎",
+   "url": "https://www.carmall.com.tw/products/arisun-rs01rs02競賽級全熱熔胎?variant=89891514",
+   "price": 2200.0,
+   "qty": 5,
+   "available": true,
+   "variant_id": 89891514,
+   "kind": "single",
+   "line": "RS02",
+   "size": "120/80-12",
+   "position": "後輪",
+   "choose": [
+    "RS02後輪",
+    "120/80-12"
+   ],
+   "type": "全熱熔胎",
+   "caveat": "本系列以賽道競技與賽道日使用為定位，購買前請確認使用需求及道路使用法規。"
+  },
+  {
+   "product_id": 72973329,
+   "title": "ARISUN RS01／RS02｜競賽級熱熔胎",
+   "url": "https://www.carmall.com.tw/products/arisun-rs01rs02競賽級全熱熔胎?variant=89891515",
+   "price": 2200.0,
+   "qty": 5,
+   "available": true,
+   "variant_id": 89891515,
+   "kind": "single",
+   "line": "RS02",
+   "size": "130/70-13",
+   "position": "後輪",
+   "choose": [
+    "RS02後輪",
+    "130/70-13"
+   ],
+   "type": "半熱熔胎",
+   "caveat": "本系列以賽道競技與賽道日使用為定位，購買前請確認使用需求及道路使用法規。"
+  },
+  {
+   "product_id": 73109778,
+   "title": "【前後輪套組】ARISUN RS01／RS02 競賽級半熱熔胎｜13吋",
+   "url": "https://www.carmall.com.tw/products/前後輪套組arisun-rs01_rs02競賽級半熱熔胎13吋?variant=90128355",
+   "sku": "ARISUN RS01+RS02",
+   "price": 3980.0,
+   "qty": 5,
+   "available": true,
+   "variant_id": 90128355,
+   "kind": "set",
+   "compare_at": 4300.0,
+   "front": "120/70-13",
+   "rear": "130/70-13",
+   "line": "RS01+RS02",
+   "type": "競賽級半熱熔胎",
+   "caveat": "本系列以賽道競技與賽道日使用為定位，購買前請確認實際使用需求及道路使用法規。"
+  },
+  {
+   "product_id": 73490813,
+   "title": "【合作車行安裝】ARISUN SK1 全天候半熱熔胎",
+   "url": "https://www.carmall.com.tw/products/合作車行安裝arisun-sk1全天候半熱熔胎?variant=90612401",
+   "price": 1900.0,
+   "qty": 5,
+   "available": true,
+   "variant_id": 90612401,
+   "kind": "install",
+   "line": "SK1",
+   "size": "110/70-12",
+   "position": null,
+   "choose": [
+    "110/70-12"
+   ],
+   "type": "全天候半熱熔胎"
+  },
+  {
+   "product_id": 73490813,
+   "title": "【合作車行安裝】ARISUN SK1 全天候半熱熔胎",
+   "url": "https://www.carmall.com.tw/products/合作車行安裝arisun-sk1全天候半熱熔胎?variant=90612402",
+   "price": 2000.0,
+   "qty": 5,
+   "available": true,
+   "variant_id": 90612402,
+   "kind": "install",
+   "line": "SK1",
+   "size": "120/70-12",
+   "position": null,
+   "choose": [
+    "120/70-12"
+   ],
+   "type": "全天候半熱熔胎"
+  },
+  {
+   "product_id": 73490813,
+   "title": "【合作車行安裝】ARISUN SK1 全天候半熱熔胎",
+   "url": "https://www.carmall.com.tw/products/合作車行安裝arisun-sk1全天候半熱熔胎?variant=90612403",
+   "price": 2100.0,
+   "qty": 5,
+   "available": true,
+   "variant_id": 90612403,
+   "kind": "install",
+   "line": "SK1",
+   "size": "130/70-12",
+   "position": "後輪",
+   "choose": [
+    "後輪 130/70-12"
+   ],
+   "type": "全天候半熱熔胎"
+  },
+  {
+   "product_id": 73490813,
+   "title": "【合作車行安裝】ARISUN SK1 全天候半熱熔胎",
+   "url": "https://www.carmall.com.tw/products/合作車行安裝arisun-sk1全天候半熱熔胎?variant=90612404",
+   "price": 2000.0,
+   "qty": 5,
+   "available": true,
+   "variant_id": 90612404,
+   "kind": "install",
+   "line": "SK1",
+   "size": "110/70-13",
+   "position": null,
+   "choose": [
+    "110/70-13"
+   ],
+   "type": "全天候半熱熔胎"
+  },
+  {
+   "product_id": 73490813,
+   "title": "【合作車行安裝】ARISUN SK1 全天候半熱熔胎",
+   "url": "https://www.carmall.com.tw/products/合作車行安裝arisun-sk1全天候半熱熔胎?variant=90612405",
+   "price": 2200.0,
+   "qty": 5,
+   "available": true,
+   "variant_id": 90612405,
+   "kind": "install",
+   "line": "SK1",
+   "size": "120/70-13",
+   "position": null,
+   "choose": [
+    "120/70-13"
+   ],
+   "type": "全天候半熱熔胎"
+  },
+  {
+   "product_id": 73490813,
+   "title": "【合作車行安裝】ARISUN SK1 全天候半熱熔胎",
+   "url": "https://www.carmall.com.tw/products/合作車行安裝arisun-sk1全天候半熱熔胎?variant=90612406",
+   "price": 2300.0,
+   "qty": 5,
+   "available": true,
+   "variant_id": 90612406,
+   "kind": "install",
+   "line": "SK1",
+   "size": "130/70-13",
+   "position": "後輪",
+   "choose": [
+    "後輪 130/70-13"
+   ],
+   "type": "全天候半熱熔胎"
+  },
+  {
+   "product_id": 73490813,
+   "title": "【合作車行安裝】ARISUN SK1 全天候半熱熔胎",
+   "url": "https://www.carmall.com.tw/products/合作車行安裝arisun-sk1全天候半熱熔胎?variant=90612407",
+   "price": 2100.0,
+   "qty": 5,
+   "available": true,
+   "variant_id": 90612407,
+   "kind": "install",
+   "line": "SK1",
+   "size": "100/80-14",
+   "position": null,
+   "choose": [
+    "100/80-14"
+   ],
+   "type": "全天候半熱熔胎"
+  },
+  {
+   "product_id": 73490813,
+   "title": "【合作車行安裝】ARISUN SK1 全天候半熱熔胎",
+   "url": "https://www.carmall.com.tw/products/合作車行安裝arisun-sk1全天候半熱熔胎?variant=90612408",
+   "price": 2300.0,
+   "qty": 5,
+   "available": true,
+   "variant_id": 90612408,
+   "kind": "install",
+   "line": "SK1",
+   "size": "110/70-17",
+   "position": "前輪",
+   "choose": [
+    "前輪 110/70-17"
+   ],
+   "type": "全天候半熱熔胎"
+  },
+  {
+   "product_id": 73490813,
+   "title": "【合作車行安裝】ARISUN SK1 全天候半熱熔胎",
+   "url": "https://www.carmall.com.tw/products/合作車行安裝arisun-sk1全天候半熱熔胎?variant=90612409",
+   "price": 2700.0,
+   "qty": 5,
+   "available": true,
+   "variant_id": 90612409,
+   "kind": "install",
+   "line": "SK1",
+   "size": "140/70-17",
+   "position": "後輪",
+   "choose": [
+    "後輪 140/70-17"
+   ],
+   "type": "全天候半熱熔胎"
+  }
+ ],
+ "brands": [
+  {
+   "name": "AEON",
+   "models": [
+    {
+     "name": "STR 250",
+     "front": [
+      {
+       "size": "120/70-13",
+       "tyres": [
+        89888918,
+        89891513
+       ],
+       "listed_by": [
+        73109778
+       ]
+      }
+     ],
+     "rear": [
+      {
+       "size": "130/70-13",
+       "tyres": [
+        89888919,
+        89891515
+       ],
+       "listed_by": [
+        73109778
+       ]
+      }
+     ],
+     "sets": [
+      90128355
+     ]
+    },
+    {
+     "name": "STR 300",
+     "front": [
+      {
+       "size": "120/70-13",
+       "tyres": [
+        89888918,
+        89891513
+       ],
+       "listed_by": [
+        73109778
+       ]
+      }
+     ],
+     "rear": [
+      {
+       "size": "130/70-13",
+       "tyres": [
+        89888919,
+        89891515
+       ],
+       "listed_by": [
+        73109778
+       ]
+      }
+     ],
+     "sets": [
+      90128355
+     ]
+    }
+   ]
+  },
+  {
+   "name": "GOGORO",
+   "models": [
+    {
+     "name": "S2",
+     "front": [
+      {
+       "size": "100/80-14",
+       "tyres": [
+        89888920
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "rear": [
+      {
+       "size": "110/70-13",
+       "tyres": [
+        89888917
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "sets": []
+    },
+    {
+     "name": "S3",
+     "front": [
+      {
+       "size": "100/80-14",
+       "tyres": [
+        89888920
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "rear": [
+      {
+       "size": "110/70-13",
+       "tyres": [
+        89888917
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "sets": []
+    }
+   ]
+  },
+  {
+   "name": "KYMCO",
+   "models": [
+    {
+     "name": "G6 150",
+     "front": [
+      {
+       "size": "110/70-12",
+       "tyres": [
+        89888914
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "rear": [
+      {
+       "size": "120/70-12",
+       "tyres": [
+        89888915
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "sets": []
+    },
+    {
+     "name": "G7",
+     "front": [
+      {
+       "size": "110/70-13",
+       "tyres": [
+        89888917
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "rear": [
+      {
+       "size": "130/70-13",
+       "tyres": [
+        89888919,
+        89891515
+       ],
+       "listed_by": [
+        72972502,
+        72973329,
+        73490813
+       ]
+      }
+     ],
+     "sets": []
+    },
+    {
+     "name": "KRV180",
+     "front": [
+      {
+       "size": "110/70-13",
+       "tyres": [
+        89888917
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "rear": [
+      {
+       "size": "130/70-13",
+       "tyres": [
+        89888919,
+        89891515
+       ],
+       "listed_by": [
+        72972502,
+        72973329,
+        73490813
+       ]
+      }
+     ],
+     "sets": []
+    },
+    {
+     "name": "RCS moto",
+     "front": [
+      {
+       "size": "110/70-12",
+       "tyres": [
+        89888914
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "rear": [
+      {
+       "size": "120/70-12",
+       "tyres": [
+        89888915
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "sets": []
+    },
+    {
+     "name": "RomaGT",
+     "front": [
+      {
+       "size": "110/70-13",
+       "tyres": [
+        89888917
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "rear": [
+      {
+       "size": "130/70-13",
+       "tyres": [
+        89888919,
+        89891515
+       ],
+       "listed_by": [
+        72972502,
+        72973329,
+        73490813
+       ]
+      }
+     ],
+     "sets": []
+    },
+    {
+     "name": "RTS125/135/165",
+     "front": [
+      {
+       "size": "110/70-12",
+       "tyres": [
+        89888914
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "rear": [
+      {
+       "size": "120/70-12",
+       "tyres": [
+        89888915
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "sets": []
+    }
+   ]
+  },
+  {
+   "name": "SYM",
+   "models": [
+    {
+     "name": "DRGBT",
+     "front": [
+      {
+       "size": "120/70-13",
+       "tyres": [
+        89888918,
+        89891513
+       ],
+       "listed_by": [
+        72972502,
+        72973329,
+        73109778,
+        73490813
+       ]
+      }
+     ],
+     "rear": [
+      {
+       "size": "130/70-13",
+       "tyres": [
+        89888919,
+        89891515
+       ],
+       "listed_by": [
+        72972502,
+        72973329,
+        73109778,
+        73490813
+       ]
+      }
+     ],
+     "sets": [
+      90128355
+     ]
+    },
+    {
+     "name": "Fiddle DX",
+     "front": [
+      {
+       "size": "110/70-12",
+       "tyres": [
+        89888914
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "rear": [
+      {
+       "size": "120/70-12",
+       "tyres": [
+        89888915
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "sets": []
+    },
+    {
+     "name": "JET SL125",
+     "front": [
+      {
+       "size": "110/70-12",
+       "tyres": [
+        89888914
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "rear": [
+      {
+       "size": "120/70-12",
+       "tyres": [
+        89888915
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "sets": []
+    },
+    {
+     "name": "MMBCU",
+     "front": [
+      {
+       "size": "120/70-13",
+       "tyres": [
+        89888918,
+        89891513
+       ],
+       "listed_by": [
+        72972502,
+        72973329,
+        73109778,
+        73490813
+       ]
+      }
+     ],
+     "rear": [
+      {
+       "size": "130/70-13",
+       "tyres": [
+        89888919,
+        89891515
+       ],
+       "listed_by": [
+        72972502,
+        72973329,
+        73109778,
+        73490813
+       ]
+      }
+     ],
+     "sets": [
+      90128355
+     ]
+    },
+    {
+     "name": "SL158+ SUPERC",
+     "front": [
+      {
+       "size": "110/70-12",
+       "tyres": [
+        89888914
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "rear": [
+      {
+       "size": "120/70-12",
+       "tyres": [
+        89888915
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "sets": []
+    }
+   ]
+  },
+  {
+   "name": "YAMAHA",
+   "models": [
+    {
+     "name": "AUGUR",
+     "front": [
+      {
+       "size": "120/70-13",
+       "tyres": [
+        89888918,
+        89891513
+       ],
+       "listed_by": [
+        72972502,
+        72973329,
+        73109778,
+        73490813
+       ]
+      }
+     ],
+     "rear": [
+      {
+       "size": "130/70-13",
+       "tyres": [
+        89888919,
+        89891515
+       ],
+       "listed_by": [
+        72972502,
+        72973329,
+        73109778,
+        73490813
+       ]
+      }
+     ],
+     "sets": [
+      90128355
+     ]
+    },
+    {
+     "name": "BWS",
+     "front": [
+      {
+       "size": "120/70-12",
+       "tyres": [
+        89888915
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "rear": [
+      {
+       "size": "130/70-12",
+       "tyres": [
+        89888916
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "sets": []
+    },
+    {
+     "name": "CYGNUS 勁戰",
+     "front": [
+      {
+       "size": "120/70-12",
+       "tyres": [
+        89888915
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "rear": [
+      {
+       "size": "130/70-12",
+       "tyres": [
+        89888916
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "sets": []
+    },
+    {
+     "name": "FORCE",
+     "front": [
+      {
+       "size": "120/70-13",
+       "tyres": [
+        89888918,
+        89891513
+       ],
+       "listed_by": [
+        72972502,
+        72973329,
+        73109778,
+        73490813
+       ]
+      }
+     ],
+     "rear": [
+      {
+       "size": "130/70-13",
+       "tyres": [
+        89888919,
+        89891515
+       ],
+       "listed_by": [
+        72972502,
+        72973329,
+        73109778,
+        73490813
+       ]
+      }
+     ],
+     "sets": [
+      90128355
+     ]
+    },
+    {
+     "name": "MT15",
+     "front": [
+      {
+       "size": "110/70-17",
+       "tyres": [
+        89888921
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "rear": [
+      {
+       "size": "140/70-17",
+       "tyres": [
+        89888922
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "sets": []
+    },
+    {
+     "name": "NMAX",
+     "front": [
+      {
+       "size": "110/70-13",
+       "tyres": [
+        89888917
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "rear": [
+      {
+       "size": "130/70-13",
+       "tyres": [
+        89888919,
+        89891515
+       ],
+       "listed_by": [
+        72972502,
+        72973329,
+        73490813
+       ]
+      }
+     ],
+     "sets": []
+    },
+    {
+     "name": "R15",
+     "front": [
+      {
+       "size": "110/70-17",
+       "tyres": [
+        89888921
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "rear": [
+      {
+       "size": "140/70-17",
+       "tyres": [
+        89888922
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "sets": []
+    },
+    {
+     "name": "XSR155",
+     "front": [
+      {
+       "size": "110/70-17",
+       "tyres": [
+        89888921
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "rear": [
+      {
+       "size": "140/70-17",
+       "tyres": [
+        89888922
+       ],
+       "listed_by": [
+        72972502,
+        73490813
+       ]
+      }
+     ],
+     "sets": []
+    }
+   ]
+  }
+ ]
+}

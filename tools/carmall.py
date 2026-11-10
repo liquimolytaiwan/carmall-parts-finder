@@ -31,6 +31,12 @@ class FetchError(Exception):
     pass
 
 
+class NotFound(FetchError):
+    """A 404. Still a FetchError, so callers that don't care (the air-filter and brake-pad
+    builds) refuse to publish exactly as before; the tyre build reads it as "this product
+    left the store" (a 下架 set that the category listing still shows)."""
+
+
 def get(url: str, retries: int = 4) -> str:
     """GET with pacing and incremental backoff. A 404 is final — retrying it only makes a
     renamed product handle take minutes to report (seen on the wiper finder)."""
@@ -46,7 +52,7 @@ def get(url: str, retries: int = 4) -> str:
                 return r.read().decode("utf-8", "replace")
         except urllib.error.HTTPError as e:
             if e.code == 404:
-                raise FetchError(f"404 {url}") from e
+                raise NotFound(f"404 {url}") from e
             last = e
         except (urllib.error.URLError, TimeoutError, ConnectionError) as e:
             last = e
