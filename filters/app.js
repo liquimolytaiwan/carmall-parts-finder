@@ -147,19 +147,28 @@
     var b = currentBrand();
     var head = '<div class="rc-top"><div class="rc-veh">' + esc(b.name + " " + m.name) +
       (yearPicked ? '<small>出廠年份 ' + esc(yearPicked) + '</small>' : "") + '</div></div>';
-    var positions = [];
+    var positions = [], perPos = {};
     fits.forEach(function (f) {
       var p = PRODUCTS[f.sku];
-      if (p && positions.indexOf(p.position) < 0) positions.push(p.position);
+      if (!p) return;
+      if (positions.indexOf(p.position) < 0) positions.push(p.position);
+      perPos[p.position] = (perPos[p.position] || 0) + 1;
     });
+    // Two different part numbers for the same position and years means the product
+    // tables disagree (ZZR 1400 is listed under two filters for 2012-2022). Don't pick
+    // one — show both with their years and send the customer to the OEM number.
+    var clash = positions.some(function (k) { return perPos[k] > 1; });
     // Several positions on one bike are different parts, not alternatives — say so, or a
     // TMAX owner reads three cards as "pick one".
     var title = positions.length > 1
       ? '此車款有 ' + positions.length + ' 個位置的空氣芯　<span>位置不同、各自更換，請依要更換的位置選購</span>'
       : 'Champion 空氣芯　<span>點選前往購買</span>';
-    var cards = fits.map(function (f) { return card(PRODUCTS[f.sku], f, !yearPicked); }).join("");
+    var cards = fits.map(function (f) { return card(PRODUCTS[f.sku], f, !yearPicked || clash); }).join("");
+    var warn = clash ? '<div class="note note-warn">' + iconInfo() +
+      '<span>同一個位置對到不同料號的濾芯，<b>請以車上濾芯的原廠料號核對</b>後再選購，' +
+      '不確定的話請洽客服。</span></div>' : "";
     elResult.innerHTML = '<div class="rc">' + head + '<div class="rc-body">' +
-      '<div class="opt-title">' + title + '</div>' + cards + noteHtml() + '</div></div>';
+      '<div class="opt-title">' + title + '</div>' + cards + warn + noteHtml() + '</div></div>';
     elResult.hidden = false;
     postHeight();
   }
