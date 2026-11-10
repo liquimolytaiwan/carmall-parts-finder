@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T04:08:26Z",
+ "generated": "2026-11-10T04:13:19Z",
  "source": "CarMall Champion 空氣芯商品頁之車種對照表",
  "category_url": "https://www.carmall.com.tw/categories/brandlist/champion",
  "stats": {
@@ -132,7 +132,7 @@
   },
   {
    "product_id": 73489387,
-   "title": "【Champion台灣代理】Kawasaki ZZR1400 06-22空氣芯 Air Filter",
+   "title": "【Champion台灣代理】Kawasaki ZZR1400 06-11空氣芯 Air Filter",
    "url": "https://www.carmall.com.tw/products/champion-air-filter-kawasaki-zzr1400-06-22",
    "sku": "CP-CAF1916",
    "price": 1250.0,
@@ -143,7 +143,7 @@
   },
   {
    "product_id": 73487659,
-   "title": "【Champion台灣代理】Kawasaki ZX-10R 11-15空氣芯 Air Filter-copy",
+   "title": "【Champion台灣代理】Kawasaki ZX-10R 11-15空氣芯 Air Filter",
    "url": "https://www.carmall.com.tw/products/champion-air-filter-kawasaki-zx-10r-11-15",
    "sku": "CP-CAF1918",
    "price": 1100.0,
@@ -182,7 +182,7 @@
    "price": 1250.0,
    "qty": 1,
    "available": true,
-   "oe": null,
+   "oe": "11013-0718",
    "position": "空氣芯"
   },
   {
@@ -1240,7 +1240,7 @@
       {
        "sku": "CP-CAF1916",
        "years": [
-        "2006-2022"
+        "2006-2011"
        ]
       },
       {
@@ -1437,6 +1437,17 @@
   {
    "name": "SUZUKI",
    "models": [
+    {
+     "name": "ADDRESS 110",
+     "fits": [
+      {
+       "sku": "CP-CAF2107",
+       "years": [
+        "2015-2018"
+       ]
+      }
+     ]
+    },
     {
      "name": "AN 400 BURGMAN",
      "fits": [
@@ -1796,17 +1807,6 @@
        ]
       }
      ]
-    },
-    {
-     "name": "UK ADDRESS 110",
-     "fits": [
-      {
-       "sku": "CP-CAF2107",
-       "years": [
-        "2015-2018"
-       ]
-      }
-     ]
     }
    ]
   },
@@ -2083,13 +2083,7 @@
       {
        "sku": "CP-CAF3612",
        "years": [
-        "2007-2017"
-       ]
-      },
-      {
-       "sku": "CP-CAF3615",
-       "years": [
-        "2009-2017"
+        "2007-2010"
        ]
       }
      ]
@@ -2101,6 +2095,17 @@
        "sku": "CP-CAF3612",
        "years": [
         "2007-2010"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "FZ6R",
+     "fits": [
+      {
+       "sku": "CP-CAF3615",
+       "years": [
+        "2009-2017"
        ]
       }
      ]
