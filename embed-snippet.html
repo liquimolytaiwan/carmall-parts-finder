@@ -1,0 +1,42 @@
+<!-- ===== CarMall 車型對照查詢（整合入口）— 貼進 Cyberbiz 自訂頁面的 HTML 區塊 ===== -->
+<!-- max-width matches /pages/wiperguide and /pages/plugsfinder. -->
+<div id="carmall-parts-finder" style="max-width:680px;margin:0 auto;">
+  <iframe id="cmf-frame"
+    src="https://liquimolytaiwan.github.io/carmall-parts-finder/"
+    style="width:100%;border:0;display:block;min-height:420px;"
+    title="車型對照查詢" scrolling="no"></iframe>
+</div>
+<script>
+(function () {
+  var ORIGIN = "https://liquimolytaiwan.github.io";
+  // The frame shows the hub and, after a tap, one of the finders. Each reports its own
+  // height. carmallWiperHeight / carmallPlugHeight are the two older finders' names;
+  // the hub and every newer finder use carmallFinderHeight, so adding a category later
+  // never needs this snippet re-pasted.
+  var TYPES = ["carmallFinderHeight", "carmallWiperHeight", "carmallPlugHeight"];
+  var f = document.getElementById("cmf-frame");
+  if (!f) return;
+  window.addEventListener("message", function (e) {
+    // Only this frame may resize itself. Without these checks any other frame or opened
+    // window on the page could post a height and distort the storefront.
+    if (e.origin !== ORIGIN || e.source !== f.contentWindow) return;
+    if (!e.data || TYPES.indexOf(e.data.type) < 0) return;
+    var h = Number(e.data.height);
+    if (!(h > 0) || h > 5000) return;
+    // Drop the pre-load placeholder so the frame can shrink back down as well as grow.
+    f.style.minHeight = "0px";
+    f.style.height = h + "px";
+  });
+  // Hub -> finder -> back all happen inside the frame, and only this page can scroll
+  // itself. If the frame's top has scrolled out of view (tapping a card low on a phone
+  // screen), bring it back so the new screen starts at its heading, not halfway down.
+  var loads = 0;
+  f.addEventListener("load", function () {
+    loads += 1;
+    if (loads === 1) return;            // the first load is the page opening normally
+    var top = f.getBoundingClientRect().top;
+    if (top < 0) window.scrollTo(0, Math.max(0, (window.pageYOffset || 0) + top - 80));
+  });
+})();
+</script>
+<!-- ===== 結束 ===== -->

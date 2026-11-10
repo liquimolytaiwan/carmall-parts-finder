@@ -1,0 +1,46 @@
+name: deploy-pages
+
+# Publishes the repo root to GitHub Pages using the Actions build path. The legacy Pages
+# builder stopped dispatching for carmall-ngk-finder on 2026-08-06 with no log, so this
+# repo starts on the path that leaves a readable log when something breaks.
+#
+# Plain static files, nothing to compile: upload the checkout and deploy it. A failed run
+# leaves the previously deployed site serving untouched.
+#
+# When a finder with a scheduled data refresh lands here, add `workflow_run` on that
+# workflow: pushes made with the default GITHUB_TOKEN never fire `push` workflows, which
+# is how carmall-ngk-finder's live site sat on stale data for two months in 2026.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: .
+      - id: deployment
+        uses: actions/deploy-pages@v4
+        with:
+          # The Pages deployment queue has backed up past the default 10-minute wait before
+          # while the deploy itself succeeded; a red build for a shipped deploy erodes trust
+          # in the signal.
+          timeout: 1200000
