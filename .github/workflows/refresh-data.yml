@@ -1,0 +1,73 @@
+name: refresh-data
+
+# Re-reads the fitment tables and price/stock from the CarMall product pages and rebuilds
+# each finder's data.json. Same schedule as the wiper and spark-plug finders.
+#
+# build_*.py exit codes: 0 = published; 1 = refused (fetch failed or the result shrank too
+# much — previous data kept); 3 = published but some products/rows were skipped. A 3 still
+# commits (every other product's price/stock should update) and then fails the run, so the
+# failure email reaches a human; deploy-pages deploys on failure too and re-checks data.json.
+
+on:
+  schedule:
+    - cron: "0 22 * * *"      # 06:00 Taiwan
+    - cron: "0 4 * * *"       # 12:00 Taiwan
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Unit tests (parsers and publish rules)
+        run: python tests/test_build_filters.py
+
+      - name: Rebuild air-filter data (Champion)
+        id: filters
+        run: |
+          set +e
+          python tools/build_filters.py
+          rc=$?
+          echo "rc=$rc" >> "$GITHUB_OUTPUT"
+          [ $rc -eq 0 ] || [ $rc -eq 3 ]
+
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add filters/data.json
+          if git diff --cached --quiet; then
+            echo "no changes"
+            exit 0
+          fi
+          git commit -m "chore: refresh finder price/stock and fitment data"
+          # A scheduled run and a manual run can overlap; rebase and retry instead of
+          # showing a false red for a rejected non-fast-forward push.
+          for i in 1 2 3 4 5; do
+            if git push; then
+              echo "pushed on attempt $i"
+              exit 0
+            fi
+            echo "push rejected, rebasing (attempt $i)"
+            sleep $((i * 5))
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+          done
+          echo "push failed after 5 attempts" >&2
+          exit 1
+
+      - name: Fail if products or rows were skipped
+        if: steps.filters.outputs.rc == '3'
+        run: |
+          echo "::error::Some products or table rows were skipped — see the 'Rebuild' step log (PROBLEM lines)."
+          exit 1

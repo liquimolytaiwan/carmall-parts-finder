@@ -1,0 +1,2718 @@
+{
+ "generated": "2026-11-10T03:45:40Z",
+ "source": "CarMall Champion 空氣芯商品頁之車種對照表",
+ "category_url": "https://www.carmall.com.tw/categories/brandlist/champion",
+ "stats": {
+  "products": 56,
+  "rows": 202,
+  "skipped": 0,
+  "carried": 0
+ },
+ "products": [
+  {
+   "product_id": 73490628,
+   "title": "【Champion台灣代理】Honda CBR500R 13-18空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-honda-cbr500r-13-18",
+   "sku": "CP-CAF0508",
+   "price": 1150.0,
+   "qty": 5,
+   "available": true,
+   "oe": "17211-MGZ-D00",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73490893,
+   "title": "【Champion台灣代理】Honda CBR600RR 07-16空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-honda-cbr600rr-07-16",
+   "sku": "CP-CAF0620",
+   "price": 1300.0,
+   "qty": 3,
+   "available": true,
+   "oe": "17210-MFJ-D00",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73491149,
+   "title": "【Champion台灣代理】Honda CBR650F 14-18空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-honda-cbr650f-14-18",
+   "sku": "CP-CAF0622",
+   "price": 800.0,
+   "qty": 5,
+   "available": true,
+   "oe": "17210-MJE-D00",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73491167,
+   "title": "【Champion台灣代理】Honda NC700/750 12-21空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-honda-nc700750-12-21",
+   "sku": "CP-CAF0715",
+   "price": 1100.0,
+   "qty": 3,
+   "available": true,
+   "oe": "17210-MGS-D30",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73491225,
+   "title": "【Champion台灣代理】Honda XADV 17-18空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-honda-xadv-17-18",
+   "sku": "CP-CAF0716",
+   "price": 1000.0,
+   "qty": 5,
+   "available": true,
+   "oe": null,
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73491471,
+   "title": "【Champion台灣代理】Honda Goldwing 01-17空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-honda-goldwing-01-17",
+   "sku": "CP-CAF0921",
+   "price": 1050.0,
+   "qty": 2,
+   "available": true,
+   "oe": "17210-MCA-003 (A60)",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73491397,
+   "title": "【Champion台灣代理】Honda CBR1000RR 08-16空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-honda-cbr1000rr-08-16",
+   "sku": "CP-CAF0931",
+   "price": 800.0,
+   "qty": 2,
+   "available": true,
+   "oe": "17210-MFL-000",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73491440,
+   "title": "【Champion台灣代理】Honda CB1100 15-空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-honda-cb1100-15",
+   "sku": "CP-CAF0932",
+   "price": 1300.0,
+   "qty": 3,
+   "available": true,
+   "oe": "17210-MEJ-981",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73485368,
+   "title": "【Champion台灣代理】Kawasaki ER6 12-16空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-kawasaki-er6-12-16",
+   "sku": "CP-CAF1608",
+   "price": 900.0,
+   "qty": 6,
+   "available": true,
+   "oe": "11013-0713",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73484565,
+   "title": "【Champion台灣代理】Kawasaki ZX-6R 09-20空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-kawasaki-zx-6r-09-20",
+   "sku": "CP-CAF1609",
+   "price": 1000.0,
+   "qty": 15,
+   "available": true,
+   "oe": "11013-0036",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73485814,
+   "title": "【Champion台灣代理】Kawasaki Z800 13-16空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-kawasaki-z800-13-16",
+   "sku": "CP-CAF1802",
+   "price": 1000.0,
+   "qty": 2,
+   "available": true,
+   "oe": "11013-0044",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73489387,
+   "title": "【Champion台灣代理】Kawasaki ZZR1400 06-22空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-kawasaki-zzr1400-06-22",
+   "sku": "CP-CAF1916",
+   "price": 1250.0,
+   "qty": 2,
+   "available": true,
+   "oe": "11013-0014",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73487659,
+   "title": "【Champion台灣代理】Kawasaki ZX-10R 11-15空氣芯 Air Filter-copy",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-kawasaki-zx-10r-11-15",
+   "sku": "CP-CAF1918",
+   "price": 1100.0,
+   "qty": 3,
+   "available": true,
+   "oe": "11013-0041",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73486198,
+   "title": "【Champion台灣代理】Kawasaki VN900 06-19空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-kawasaki-vn900-06-19",
+   "sku": "CP-CAF1919",
+   "price": 1000.0,
+   "qty": 2,
+   "available": true,
+   "oe": null,
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73487257,
+   "title": "【Champion台灣代理】Kawasaki Z1000 14-空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-kawasaki-z1000-14",
+   "sku": "CP-CAF1920",
+   "price": 1050.0,
+   "qty": 4,
+   "available": true,
+   "oe": "11013-0738",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73489598,
+   "title": "【Champion台灣代理】Kawasaki ZZR1400 12-22空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-kawasaki-zzr1400-12-22",
+   "sku": "CP-CAF1923",
+   "price": 1250.0,
+   "qty": 1,
+   "available": true,
+   "oe": null,
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73486581,
+   "title": "【Champion台灣代理】Kawasaki Z900RS 18-23空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-kawasaki-z900rs-18-23",
+   "sku": "CP-CAF1924",
+   "price": 1000.0,
+   "qty": 2,
+   "available": true,
+   "oe": null,
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73489085,
+   "title": "【Champion台灣代理】Kawasaki ZX-10R 19-空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-kawasaki-zx-10r-19",
+   "sku": "CP-CAF1925",
+   "price": 1250.0,
+   "qty": 2,
+   "available": true,
+   "oe": "11013-0777",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73415658,
+   "title": "【Champion台灣代理】Suzuki GSX-R125空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-suzuki-gsx-r125",
+   "sku": "CP-CAF2106",
+   "price": 550.0,
+   "qty": 10,
+   "available": true,
+   "oe": null,
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73416883,
+   "title": "【Champion台灣代理】Suzuki Address110空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-suzuki-address110",
+   "sku": "CP-CAF2107",
+   "price": 650.0,
+   "qty": 4,
+   "available": true,
+   "oe": null,
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73417105,
+   "title": "【Champion台灣代理】Suzuki AN400 07-17空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-suzuki-an400-07-17",
+   "sku": "CP-CAF2401",
+   "price": 500.0,
+   "qty": 2,
+   "available": true,
+   "oe": "13781-05H00",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73465214,
+   "title": "【Champion台灣代理】Suzuki DL650 04-18空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-suzuki-dl650-04-18",
+   "sku": "CP-CAF2611",
+   "price": 1200.0,
+   "qty": 2,
+   "available": true,
+   "oe": "11013-S012、13780-06G00、13780-27G10",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73417697,
+   "title": "【Champion台灣代理】Suzuki GSX-R600 06-10空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-suzuki-gsx-r600-06-10",
+   "sku": "CP-CAF2617",
+   "price": 950.0,
+   "qty": 2,
+   "available": true,
+   "oe": "13780-01H00",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73465283,
+   "title": "【Champion台灣代理】Suzuki SV650 17-18空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-suzuki-sv650-17-18",
+   "sku": "CP-CAF2618",
+   "price": 950.0,
+   "qty": 2,
+   "available": true,
+   "oe": "13780-44H00",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73467095,
+   "title": "【Champion台灣代理】Suzuki AN650 02-18空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-suzuki-an650-02-18",
+   "sku": "CP-CAF2619",
+   "price": 550.0,
+   "qty": 2,
+   "available": true,
+   "oe": "13780-10G00",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73418088,
+   "title": "【Champion台灣代理】Suzuki GSX-R600 11-18空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-suzuki-gsx-r600-11-18",
+   "sku": "CP-CAF2620",
+   "price": 950.0,
+   "qty": 6,
+   "available": true,
+   "oe": "13780-14J00",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73467126,
+   "title": "【Champion台灣代理】Suzuki Bandit 650/1250 07-16空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-suzuki-bandit-6501250-07-16",
+   "sku": "CP-CAF2621",
+   "price": 800.0,
+   "qty": 2,
+   "available": true,
+   "oe": "13780-18H00",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73472868,
+   "title": "【Champion台灣代理】Suzuki GSX-S1000 15-17空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-suzuki-gsx-s1000-15-17",
+   "sku": "CP-CAF2912",
+   "price": 950.0,
+   "qty": 2,
+   "available": true,
+   "oe": "13780-47H00、13780-47H10",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73135467,
+   "title": "【Champion台灣代理】Yamaha YBR125空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-yamaha-ybr125",
+   "sku": "CP-CAF3103",
+   "price": 400.0,
+   "qty": 20,
+   "available": true,
+   "oe": "5VL-E4450-00、5VL-E4450-10",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73140856,
+   "title": "【Champion台灣代理】Yamaha 勁戰I/II/III空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-yamaha-123",
+   "sku": "CP-CAF3107",
+   "price": 400.0,
+   "qty": 5,
+   "available": true,
+   "oe": "5TY-E4450-00、5TY-E4451-00",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73141273,
+   "title": "【Champion台灣代理】Yamaha NMAX 15-20空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-yamaha-nmax-15-20",
+   "sku": "CP-CAF3111",
+   "price": 500.0,
+   "qty": 0,
+   "available": false,
+   "oe": "2DP-E4451-00",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73142152,
+   "title": "【Champion台灣代理】Yamaha XMAX300 17-空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-yamaha-xmax300-17",
+   "sku": "CP-CAF3301",
+   "price": 600.0,
+   "qty": 3,
+   "available": true,
+   "oe": "B74-WE445-00",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73143854,
+   "title": "【Champion台灣代理】Yamaha XMAX300 17-傳動空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-yamaha-xmax300-17-1",
+   "sku": "CP-CAF3302",
+   "price": 400.0,
+   "qty": 10,
+   "available": true,
+   "oe": "B74-E5407-00",
+   "position": "傳動空氣芯"
+  },
+  {
+   "product_id": 73145948,
+   "title": "【Champion台灣代理】Yamaha TMAX530 12-16左傳動空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-yamaha-tmax530-12-16",
+   "sku": "CP-CAF3509",
+   "price": 650.0,
+   "qty": 2,
+   "available": true,
+   "oe": "59C-15407-00",
+   "position": "左傳動空氣芯"
+  },
+  {
+   "product_id": 73335854,
+   "title": "【Champion台灣代理】Yamaha TMAX530/560 12-24右傳動空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-yamaha-tmax530560-12-24",
+   "sku": "CP-CAF3510",
+   "price": 600.0,
+   "qty": 0,
+   "available": false,
+   "oe": "59C-15408-00",
+   "position": "右傳動空氣芯"
+  },
+  {
+   "product_id": 73336421,
+   "title": "【Champion台灣代理】Yamaha TMAX530 17-20主空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-yamaha-tmax530-17-20",
+   "sku": "CP-CAF3511",
+   "price": 600.0,
+   "qty": 2,
+   "available": true,
+   "oe": "BC3-14451-00",
+   "position": "主空氣芯"
+  },
+  {
+   "product_id": 73336448,
+   "title": "【Champion台灣代理】Yamaha TMAX530/560 17-24左傳動空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-yamaha-tmax530560-17-24",
+   "sku": "CP-CAF3512",
+   "price": 700.0,
+   "qty": 0,
+   "available": false,
+   "oe": "BC3-15407-00",
+   "position": "左傳動空氣芯"
+  },
+  {
+   "product_id": 73336527,
+   "title": "【Champion台灣代理】Yamaha TMAX560 20-24主空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-yamaha-tmax560-20-24",
+   "sku": "CP-CAF3513",
+   "price": 400.0,
+   "qty": 5,
+   "available": true,
+   "oe": "B7M-14451-00",
+   "position": "主空氣芯"
+  },
+  {
+   "product_id": 73336565,
+   "title": "【Champion台灣代理】Yamaha FZ6空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-yamaha-fz6",
+   "sku": "CP-CAF3612",
+   "price": 1050.0,
+   "qty": 5,
+   "available": true,
+   "oe": "5VX-14451-00",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73336659,
+   "title": "【Champion台灣代理】Yamaha YZF-R6 08-20空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-yamaha-yzf-r6-08-20",
+   "sku": "CP-CAF3614",
+   "price": 1800.0,
+   "qty": 2,
+   "available": true,
+   "oe": null,
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73336630,
+   "title": "【Champion台灣代理】Yamaha XJ6空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-yamaha-xj6",
+   "sku": "CP-CAF3615",
+   "price": 950.0,
+   "qty": 2,
+   "available": true,
+   "oe": "20S-14451-00",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73336709,
+   "title": "【Champion台灣代理】Yamaha MT-07 14-空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-yamaha-mt-07-14",
+   "sku": "CP-CAF3707",
+   "price": 900.0,
+   "qty": 2,
+   "available": true,
+   "oe": "1WS-14450-00",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73144338,
+   "title": "【Champion台灣代理】Yamaha TMAX500 01-07空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-yamaha-tmax500-01-07",
+   "sku": "CP-CAF3909",
+   "price": 550.0,
+   "qty": 0,
+   "available": false,
+   "oe": "4BH-14451-00、4BH-14451-01",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73336823,
+   "title": "【Champion台灣代理】Yamaha FZ1/FZ8空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-yamaha-fz1fz8",
+   "sku": "CP-CAF3917",
+   "price": 900.0,
+   "qty": 5,
+   "available": true,
+   "oe": "2D1-14451-00",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73377718,
+   "title": "【Champion台灣代理】Yamaha MT-09 13-20空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-yamaha-mt-09-13-20",
+   "sku": "CP-CAF3921",
+   "price": 900.0,
+   "qty": 2,
+   "available": true,
+   "oe": "1RC-14451-00",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73411087,
+   "title": "【Champion台灣代理】Yamaha YZF-R1 09-14空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-yamaha-yzf-r1-09-14",
+   "sku": "CP-CAF3923",
+   "price": 1000.0,
+   "qty": 4,
+   "available": true,
+   "oe": "14B-14451-00",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73414635,
+   "title": "【Champion台灣代理】Yamaha YZF-R1 15-19空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-yamaha-yzf-r1-15-19",
+   "sku": "CP-CAF3924",
+   "price": 1100.0,
+   "qty": 10,
+   "available": true,
+   "oe": "2CR-14451-00",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73491509,
+   "title": "【Champion台灣代理】Aprilia RSV4 09-14空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-aprilia-rsv4-09-14",
+   "sku": "CP-CAF5101",
+   "price": 700.0,
+   "qty": 5,
+   "available": true,
+   "oe": "AP8104329",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73651350,
+   "title": "【Champion台灣代理】Aprilia Pegaso 650空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-aprilia-pegaso-650",
+   "sku": "CP-CAF5102",
+   "price": 600.0,
+   "qty": 2,
+   "available": true,
+   "oe": "8102715",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73482845,
+   "title": "【Champion台灣代理】KTM 1290車系 14-18空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-ktm-1290-14-18",
+   "sku": "CP-CAF5301",
+   "price": 1050.0,
+   "qty": 2,
+   "available": true,
+   "oe": "60306015000",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73478467,
+   "title": "【Champion台灣代理】KTM 390車系 13-16空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-ktm-390-13-16",
+   "sku": "CP-CAF5302",
+   "price": 550.0,
+   "qty": 2,
+   "available": true,
+   "oe": "90106015000",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73476861,
+   "title": "【Champion台灣代理】Triumph Tiger800 11-17空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-triumph-tiger800-11-17",
+   "sku": "CP-CAF5501",
+   "price": 1000.0,
+   "qty": 2,
+   "available": true,
+   "oe": "T2200557",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73467150,
+   "title": "【Champion台灣代理】Triumph 675車系空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-triumph-675",
+   "sku": "CP-CAF5502",
+   "price": 1050.0,
+   "qty": 4,
+   "available": true,
+   "oe": "T2200987",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73477968,
+   "title": "【Champion台灣代理】Triumph T100 02-16空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-triumph-t100-02-16",
+   "sku": "CP-CAF5504",
+   "price": 1050.0,
+   "qty": 3,
+   "available": true,
+   "oe": "T2201548",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73476349,
+   "title": "【Champion台灣代理】Triumph 765車系空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-triumph-765",
+   "sku": "CP-CAF5506",
+   "price": 1050.0,
+   "qty": 1,
+   "available": true,
+   "oe": null,
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73490112,
+   "title": "【Champion台灣代理】Honda CB400SF空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-honda-cb400sf",
+   "sku": "CP-V313",
+   "price": 600.0,
+   "qty": 5,
+   "available": true,
+   "oe": "17220-415-003",
+   "position": "空氣芯"
+  }
+ ],
+ "brands": [
+  {
+   "name": "APRILIA",
+   "models": [
+    {
+     "name": "PEGASO 650 CATCON.",
+     "fits": [
+      {
+       "sku": "CP-CAF5102",
+       "years": [
+        "1997-1999"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "PEGASO 650 I.E.",
+     "fits": [
+      {
+       "sku": "CP-CAF5102",
+       "years": [
+        "2001-2004"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "RSV 1000 R/RR/FACTORY/MILLE NERA",
+     "fits": [
+      {
+       "sku": "CP-CAF5101",
+       "years": [
+        "2004-2010"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "RSV4 R/APRC/TUONO V4 R",
+     "fits": [
+      {
+       "sku": "CP-CAF5101",
+       "years": [
+        "2009-2014"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "RXV/SXV 450/550",
+     "fits": [
+      {
+       "sku": "CP-CAF5101",
+       "years": [
+        "2005-2014"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "TUONO V4 ABS/FACTORY/RR",
+     "fits": [
+      {
+       "sku": "CP-CAF5101",
+       "years": [
+        "2015-"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "HONDA",
+   "models": [
+    {
+     "name": "CB 1100",
+     "fits": [
+      {
+       "sku": "CP-CAF0932",
+       "years": [
+        "2018-"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "CB 1100 EX",
+     "fits": [
+      {
+       "sku": "CP-CAF0932",
+       "years": [
+        "2015-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "CB 1100 RS",
+     "fits": [
+      {
+       "sku": "CP-CAF0932",
+       "years": [
+        "2017-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "CB 350 SG",
+     "fits": [
+      {
+       "sku": "CP-V313",
+       "years": [
+        "1986-1989"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "CB 400 SUPER FOUR",
+     "fits": [
+      {
+       "sku": "CP-V313",
+       "years": [
+        ""
+       ]
+      }
+     ]
+    },
+    {
+     "name": "CB 500 F",
+     "fits": [
+      {
+       "sku": "CP-CAF0508",
+       "years": [
+        "2013-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "CB 500 X",
+     "fits": [
+      {
+       "sku": "CP-CAF0508",
+       "years": [
+        "2013-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "CB 650 F",
+     "fits": [
+      {
+       "sku": "CP-CAF0622",
+       "years": [
+        "2014-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "CBR 1000 RR FIREBLADE",
+     "fits": [
+      {
+       "sku": "CP-CAF0931",
+       "years": [
+        "2008-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "CBR 1000 RR FIREBLADE SP",
+     "fits": [
+      {
+       "sku": "CP-CAF0931",
+       "years": [
+        "2014-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "CBR 500 R",
+     "fits": [
+      {
+       "sku": "CP-CAF0508",
+       "years": [
+        "2013-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "CBR 600 RR",
+     "fits": [
+      {
+       "sku": "CP-CAF0620",
+       "years": [
+        "2007-2012",
+        "2013-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "CBR 650 F",
+     "fits": [
+      {
+       "sku": "CP-CAF0622",
+       "years": [
+        "2014-2016",
+        "2017-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "CTX 700 / N",
+     "fits": [
+      {
+       "sku": "CP-CAF0715",
+       "years": [
+        "2014-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "GL 1800 A GOLDWING ABS SC47A",
+     "fits": [
+      {
+       "sku": "CP-CAF0921",
+       "years": [
+        "2001-2005"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "GL 1800 GOLDWING ABS SC47",
+     "fits": [
+      {
+       "sku": "CP-CAF0921",
+       "years": [
+        "2006-2011"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "GL 1800 GOLDWING ABS SC68",
+     "fits": [
+      {
+       "sku": "CP-CAF0921",
+       "years": [
+        "2012-2017"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "NC 700 S/SA/SD/X/XA/D INTEGRA",
+     "fits": [
+      {
+       "sku": "CP-CAF0715",
+       "years": [
+        "2012-2017"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "NC 750 D/SD/XD INTEGRA DCT ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF0715",
+       "years": [
+        "2014-2021"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "NC 750 J NM4 VULTUS DCT ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF0715",
+       "years": [
+        "2015-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "X-ADV 750 DCT ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF0716",
+       "years": [
+        "2017-2018"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "KAWASAKI",
+   "models": [
+    {
+     "name": "ER 6F",
+     "fits": [
+      {
+       "sku": "CP-CAF1608",
+       "years": [
+        "2012-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "ER 6N",
+     "fits": [
+      {
+       "sku": "CP-CAF1608",
+       "years": [
+        "2013-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "GTR 1400",
+     "fits": [
+      {
+       "sku": "CP-CAF1916",
+       "years": [
+        "2008-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "KLV 1000",
+     "fits": [
+      {
+       "sku": "CP-CAF2611",
+       "years": [
+        "2004-2006"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "NINJA 600 ZX-6R",
+     "fits": [
+      {
+       "sku": "CP-CAF1609",
+       "years": [
+        "2009-2013"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "NINJA 636 ZX-6R",
+     "fits": [
+      {
+       "sku": "CP-CAF1609",
+       "years": [
+        "2013-2017"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "NINJA 636 ZX-6R KRT",
+     "fits": [
+      {
+       "sku": "CP-CAF1609",
+       "years": [
+        "2017-2018",
+        "2019-2020"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "NINJA ZX-10R ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF1918",
+       "years": [
+        "2011-2015"
+       ]
+      },
+      {
+       "sku": "CP-CAF1925",
+       "years": [
+        "2019-2022",
+        "2021-"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "NINJA ZX-10R ABS KRT EDITION",
+     "fits": [
+      {
+       "sku": "CP-CAF1925",
+       "years": [
+        "2019-2020"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "NINJA ZX-10RR ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF1925",
+       "years": [
+        "2019-2023"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "VN 900 CLASSIC",
+     "fits": [
+      {
+       "sku": "CP-CAF1919",
+       "years": [
+        "2006-2019"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "VN 900 CLASSIC LT",
+     "fits": [
+      {
+       "sku": "CP-CAF1919",
+       "years": [
+        "2006-2019"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "VN 900 CUSTOM",
+     "fits": [
+      {
+       "sku": "CP-CAF1919",
+       "years": [
+        "2007-2019"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Z 1000",
+     "fits": [
+      {
+       "sku": "CP-CAF1802",
+       "years": [
+        "2003-2013"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Z 1000 ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF1920",
+       "years": [
+        "2014-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Z 1000 SE SUGOMI ED.",
+     "fits": [
+      {
+       "sku": "CP-CAF1920",
+       "years": [
+        "2014-"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Z 750",
+     "fits": [
+      {
+       "sku": "CP-CAF1802",
+       "years": [
+        "2004-2012"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Z 750 R",
+     "fits": [
+      {
+       "sku": "CP-CAF1802",
+       "years": [
+        "2011-2012"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Z 750 S",
+     "fits": [
+      {
+       "sku": "CP-CAF1802",
+       "years": [
+        "2005-2009"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Z 800",
+     "fits": [
+      {
+       "sku": "CP-CAF1802",
+       "years": [
+        "2013-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Z 900 RS",
+     "fits": [
+      {
+       "sku": "CP-CAF1924",
+       "years": [
+        "2018-2023"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Z 900 RS CAFE",
+     "fits": [
+      {
+       "sku": "CP-CAF1924",
+       "years": [
+        "2018-2023"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Z 900 RS SE",
+     "fits": [
+      {
+       "sku": "CP-CAF1924",
+       "years": [
+        "2022-2023"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "ZZR 1400",
+     "fits": [
+      {
+       "sku": "CP-CAF1916",
+       "years": [
+        "2006-2022"
+       ]
+      },
+      {
+       "sku": "CP-CAF1923",
+       "years": [
+        "2012-2022"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "ZZR 1400 PERFORMANCE SPORT",
+     "fits": [
+      {
+       "sku": "CP-CAF1923",
+       "years": [
+        "2013-2020"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "ZZR 1400 SE",
+     "fits": [
+      {
+       "sku": "CP-CAF1923",
+       "years": [
+        "2017-2020"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "KTM",
+   "models": [
+    {
+     "name": "1050 ADVENTURE",
+     "fits": [
+      {
+       "sku": "CP-CAF5301",
+       "years": [
+        "2015-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "1090 ADVENTURE/R",
+     "fits": [
+      {
+       "sku": "CP-CAF5301",
+       "years": [
+        "2017-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "1190 ADVENTURE ABS/R",
+     "fits": [
+      {
+       "sku": "CP-CAF5301",
+       "years": [
+        "2013-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "125 DUKE/ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF5302",
+       "years": [
+        "2011-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "125 RC",
+     "fits": [
+      {
+       "sku": "CP-CAF5302",
+       "years": [
+        "2014-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "1290 SUPER ADVENTURE/R/S/T",
+     "fits": [
+      {
+       "sku": "CP-CAF5301",
+       "years": [
+        "2014-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "1290 SUPER DUKE GT",
+     "fits": [
+      {
+       "sku": "CP-CAF5301",
+       "years": [
+        "2016-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "1290 SUPER DUKE R",
+     "fits": [
+      {
+       "sku": "CP-CAF5301",
+       "years": [
+        "2014-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "200 DUKE",
+     "fits": [
+      {
+       "sku": "CP-CAF5302",
+       "years": [
+        "2012-2019"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "200 RC",
+     "fits": [
+      {
+       "sku": "CP-CAF5302",
+       "years": [
+        "2014-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "250 DUKE",
+     "fits": [
+      {
+       "sku": "CP-CAF5302",
+       "years": [
+        "2015-2020"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "250 RC",
+     "fits": [
+      {
+       "sku": "CP-CAF5302",
+       "years": [
+        "2018-"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "390 DUKE ABS E3",
+     "fits": [
+      {
+       "sku": "CP-CAF5302",
+       "years": [
+        "2013-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "390 RC",
+     "fits": [
+      {
+       "sku": "CP-CAF5302",
+       "years": [
+        "2014-2021"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "SUZUKI",
+   "models": [
+    {
+     "name": "AN 400 BURGMAN",
+     "fits": [
+      {
+       "sku": "CP-CAF2401",
+       "years": [
+        "2007-2017"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "AN 400 BURGMAN/SKYWAVE ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF2401",
+       "years": [
+        "2009-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "AN 650 BURGMAN",
+     "fits": [
+      {
+       "sku": "CP-CAF2619",
+       "years": [
+        "2002-2015"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "AN 650 BURGMAN EXECUTIVE",
+     "fits": [
+      {
+       "sku": "CP-CAF2619",
+       "years": [
+        "2004-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "BURGMAN 400 COMFORT EDITION",
+     "fits": [
+      {
+       "sku": "CP-CAF2401",
+       "years": [
+        "2007-2017"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DL 1000 V-STROM",
+     "fits": [
+      {
+       "sku": "CP-CAF2611",
+       "years": [
+        "2002-"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DL 650 V-STROM",
+     "fits": [
+      {
+       "sku": "CP-CAF2611",
+       "years": [
+        "2004-2012",
+        "2015-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DL 650 V-STROM A XT ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF2611",
+       "years": [
+        "2015-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DL 650 V-STROM XT ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF2611",
+       "years": [
+        "2015-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DL V-STROM 650 AK ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF2611",
+       "years": [
+        "2007-2012"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DL V-STROM 650 AL ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF2611",
+       "years": [
+        "2010-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DL V-STROM 650AK GT TRAVELLER ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF2611",
+       "years": [
+        "2010-"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DL V-STROM 650AL XP XPEDITION ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF2611",
+       "years": [
+        "2010-"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "GLADIUS 650",
+     "fits": [
+      {
+       "sku": "CP-CAF2618",
+       "years": [
+        "2009-2015"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "GSF 1250 S/SA BANDIT",
+     "fits": [
+      {
+       "sku": "CP-CAF2621",
+       "years": [
+        "2007-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "GSF 650 BANDIT",
+     "fits": [
+      {
+       "sku": "CP-CAF2621",
+       "years": [
+        "2009-2011"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "GSX 1250 FA",
+     "fits": [
+      {
+       "sku": "CP-CAF2621",
+       "years": [
+        "2010-"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "GSX 1250 FA ST",
+     "fits": [
+      {
+       "sku": "CP-CAF2621",
+       "years": [
+        "2010-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "GSX 650F",
+     "fits": [
+      {
+       "sku": "CP-CAF2621",
+       "years": [
+        "2008-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "GSX-R 1000",
+     "fits": [
+      {
+       "sku": "CP-CAF2912",
+       "years": [
+        "2009-2011",
+        "2012-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "GSX-R 1000 CONCEPT",
+     "fits": [
+      {
+       "sku": "CP-CAF2912",
+       "years": [
+        "2016-"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "GSX-R 1000 UF ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF2912",
+       "years": [
+        "2015-"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "GSX-R 125 ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF2106",
+       "years": [
+        "2017-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "GSX-R 600",
+     "fits": [
+      {
+       "sku": "CP-CAF2620",
+       "years": [
+        "2011-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "GSX-R 600 K6/K7",
+     "fits": [
+      {
+       "sku": "CP-CAF2617",
+       "years": [
+        "2006-2010"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "GSX-R 600 K8/K9/L0",
+     "fits": [
+      {
+       "sku": "CP-CAF2617",
+       "years": [
+        "2006-2010"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "GSX-R 750",
+     "fits": [
+      {
+       "sku": "CP-CAF2617",
+       "years": [
+        "2006-2010"
+       ]
+      },
+      {
+       "sku": "CP-CAF2620",
+       "years": [
+        "2011-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "GSX-S 1000 A",
+     "fits": [
+      {
+       "sku": "CP-CAF2912",
+       "years": [
+        "2015-2017"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "GSX-S 1000 FA",
+     "fits": [
+      {
+       "sku": "CP-CAF2912",
+       "years": [
+        "2015-2017"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "GSX-S 125",
+     "fits": [
+      {
+       "sku": "CP-CAF2106",
+       "years": [
+        "2017-"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "SFV GLADIUS 650 ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF2618",
+       "years": [
+        "2009-2015"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "SV 650 ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF2618",
+       "years": [
+        "2017-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "UK ADDRESS 110",
+     "fits": [
+      {
+       "sku": "CP-CAF2107",
+       "years": [
+        "2015-2018"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "TRIUMPH",
+   "models": [
+    {
+     "name": "BONNEVILLE 100 SE",
+     "fits": [
+      {
+       "sku": "CP-CAF5504",
+       "years": [
+        "2009-2012"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "BONNEVILLE 800",
+     "fits": [
+      {
+       "sku": "CP-CAF5504",
+       "years": [
+        "2001-2006"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "BONNEVILLE T100",
+     "fits": [
+      {
+       "sku": "CP-CAF5504",
+       "years": [
+        "2002-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DAYTONA 675",
+     "fits": [
+      {
+       "sku": "CP-CAF5502",
+       "years": [
+        "2006-2017"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "SCRAMBLER",
+     "fits": [
+      {
+       "sku": "CP-CAF5504",
+       "years": [
+        "2007-2017"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "STREET TRIPLE",
+     "fits": [
+      {
+       "sku": "CP-CAF5502",
+       "years": [
+        "2008-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "STREET TRIPLE 765 R LOW",
+     "fits": [
+      {
+       "sku": "CP-CAF5506",
+       "years": [
+        "2018-2019"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "STREET TRIPLE R",
+     "fits": [
+      {
+       "sku": "CP-CAF5502",
+       "years": [
+        "2010-2016"
+       ]
+      },
+      {
+       "sku": "CP-CAF5506",
+       "years": [
+        "2017-2019"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "STREET TRIPLE RS",
+     "fits": [
+      {
+       "sku": "CP-CAF5506",
+       "years": [
+        "2017-2019"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "STREET TRIPLE S",
+     "fits": [
+      {
+       "sku": "CP-CAF5506",
+       "years": [
+        "2017-2019"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "THRUXTON 900",
+     "fits": [
+      {
+       "sku": "CP-CAF5504",
+       "years": [
+        "2007-2015"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "TIGER 800",
+     "fits": [
+      {
+       "sku": "CP-CAF5501",
+       "years": [
+        "2011-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "TIGER 800 XC",
+     "fits": [
+      {
+       "sku": "CP-CAF5501",
+       "years": [
+        "2011-2017"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "TIGER 800 XCA",
+     "fits": [
+      {
+       "sku": "CP-CAF5501",
+       "years": [
+        "2011-2017"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "TIGER 800 XCX",
+     "fits": [
+      {
+       "sku": "CP-CAF5501",
+       "years": [
+        "2015-2017"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "TIGER 800 XR",
+     "fits": [
+      {
+       "sku": "CP-CAF5501",
+       "years": [
+        "2015-2017"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "TIGER 800 XRT",
+     "fits": [
+      {
+       "sku": "CP-CAF5501",
+       "years": [
+        "2016-2017"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "TIGER 800 XRX",
+     "fits": [
+      {
+       "sku": "CP-CAF5501",
+       "years": [
+        "2015-2017"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "YAMAHA",
+   "models": [
+    {
+     "name": "CYGNUS X",
+     "fits": [
+      {
+       "sku": "CP-CAF3107",
+       "years": [
+        "2004-2014"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "FZ1",
+     "fits": [
+      {
+       "sku": "CP-CAF3917",
+       "years": [
+        "2006-2015"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "FZ1 FAZER",
+     "fits": [
+      {
+       "sku": "CP-CAF3917",
+       "years": [
+        "2006-2013"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "FZ6",
+     "fits": [
+      {
+       "sku": "CP-CAF3612",
+       "years": [
+        "2004-2006"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "FZ6 FAZER",
+     "fits": [
+      {
+       "sku": "CP-CAF3612",
+       "years": [
+        "2004-2006"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "FZ6 S2",
+     "fits": [
+      {
+       "sku": "CP-CAF3612",
+       "years": [
+        "2007-2017"
+       ]
+      },
+      {
+       "sku": "CP-CAF3615",
+       "years": [
+        "2009-2017"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "FZ6 S2 FAZER",
+     "fits": [
+      {
+       "sku": "CP-CAF3612",
+       "years": [
+        "2007-2010"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "FZ8",
+     "fits": [
+      {
+       "sku": "CP-CAF3917",
+       "years": [
+        "2010-2015"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "FZ8 FAZER",
+     "fits": [
+      {
+       "sku": "CP-CAF3917",
+       "years": [
+        "2010-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "GPD 125 A NMAX ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF3111",
+       "years": [
+        "2015-2020"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "MT-07",
+     "fits": [
+      {
+       "sku": "CP-CAF3707",
+       "years": [
+        "2014-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "MT-07 MOTOCAGE",
+     "fits": [
+      {
+       "sku": "CP-CAF3707",
+       "years": [
+        "2015-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "MT-07 RM171-172 & RM181-182",
+     "fits": [
+      {
+       "sku": "CP-CAF3707",
+       "years": [
+        "2017-"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "MT-09 850",
+     "fits": [
+      {
+       "sku": "CP-CAF3921",
+       "years": [
+        "2013-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "MT-09 850 A",
+     "fits": [
+      {
+       "sku": "CP-CAF3921",
+       "years": [
+        "2013-2020"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "MT-09 850 A SPORT TRACKER",
+     "fits": [
+      {
+       "sku": "CP-CAF3921",
+       "years": [
+        "2014-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "MT-09 850 A STREET RALLY",
+     "fits": [
+      {
+       "sku": "CP-CAF3921",
+       "years": [
+        "2014-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "MT-09 850 SP A",
+     "fits": [
+      {
+       "sku": "CP-CAF3921",
+       "years": [
+        "2018-2019"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "MT-09 850 SPORT TRACKER",
+     "fits": [
+      {
+       "sku": "CP-CAF3921",
+       "years": [
+        "2014-2015"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "MT-09 850 STREET RALLY",
+     "fits": [
+      {
+       "sku": "CP-CAF3921",
+       "years": [
+        "2014-2015"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "MT-10",
+     "fits": [
+      {
+       "sku": "CP-CAF3924",
+       "years": [
+        "2016-2019"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "MT-10 SP",
+     "fits": [
+      {
+       "sku": "CP-CAF3924",
+       "years": [
+        "2017-2019"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "NIKEN",
+     "fits": [
+      {
+       "sku": "CP-CAF3921",
+       "years": [
+        "2019-"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "NMAX",
+     "fits": [
+      {
+       "sku": "CP-CAF3111",
+       "years": [
+        "2017-2020"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "NXC 125 CYGNUS X 240MM DISC",
+     "fits": [
+      {
+       "sku": "CP-CAF3107",
+       "years": [
+        "2004-2014"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "TMAX 500",
+     "fits": [
+      {
+       "sku": "CP-CAF3909",
+       "years": [
+        "2001-2003",
+        "2004-2007"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "TMAX 530",
+     "fits": [
+      {
+       "sku": "CP-CAF3509",
+       "years": [
+        "2012-2016"
+       ]
+      },
+      {
+       "sku": "CP-CAF3510",
+       "years": [
+        "2012-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "TMAX 530 ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF3511",
+       "years": [
+        "2017-2019"
+       ]
+      },
+      {
+       "sku": "CP-CAF3509",
+       "years": [
+        "2012-2016"
+       ]
+      },
+      {
+       "sku": "CP-CAF3512",
+       "years": [
+        "2017-2019"
+       ]
+      },
+      {
+       "sku": "CP-CAF3510",
+       "years": [
+        "2012-2019"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "TMAX 530 DX ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF3511",
+       "years": [
+        "2017-2020"
+       ]
+      },
+      {
+       "sku": "CP-CAF3512",
+       "years": [
+        "2017-2020"
+       ]
+      },
+      {
+       "sku": "CP-CAF3510",
+       "years": [
+        "2017-2020"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "TMAX 530 SX ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF3511",
+       "years": [
+        "2017-2020"
+       ]
+      },
+      {
+       "sku": "CP-CAF3512",
+       "years": [
+        "2017-2020"
+       ]
+      },
+      {
+       "sku": "CP-CAF3510",
+       "years": [
+        "2017-2020"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "TMAX 560 ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF3513",
+       "years": [
+        "2020-2024"
+       ]
+      },
+      {
+       "sku": "CP-CAF3512",
+       "years": [
+        "2020-2024"
+       ]
+      },
+      {
+       "sku": "CP-CAF3510",
+       "years": [
+        "2020-2024"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "TMAX 560 ABS TECH MAX",
+     "fits": [
+      {
+       "sku": "CP-CAF3513",
+       "years": [
+        "2020-2024"
+       ]
+      },
+      {
+       "sku": "CP-CAF3512",
+       "years": [
+        "2020-2024"
+       ]
+      },
+      {
+       "sku": "CP-CAF3510",
+       "years": [
+        "2020-2024"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "TRACER 700",
+     "fits": [
+      {
+       "sku": "CP-CAF3707",
+       "years": [
+        "2016-2019"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "TRACER 900 GT",
+     "fits": [
+      {
+       "sku": "CP-CAF3921",
+       "years": [
+        "2018-2019"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "X-MAX 300 A ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF3301",
+       "years": [
+        "2017-2018"
+       ]
+      },
+      {
+       "sku": "CP-CAF3302",
+       "years": [
+        "2017-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "X-MAX 300 A ABS IRON MAX",
+     "fits": [
+      {
+       "sku": "CP-CAF3301",
+       "years": [
+        "2019"
+       ]
+      },
+      {
+       "sku": "CP-CAF3302",
+       "years": [
+        "2019"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "X-MAX 300 A ABS TECH MAX",
+     "fits": [
+      {
+       "sku": "CP-CAF3301",
+       "years": [
+        "2020-"
+       ]
+      },
+      {
+       "sku": "CP-CAF3302",
+       "years": [
+        "2020-"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "XJ6 DIVERSION",
+     "fits": [
+      {
+       "sku": "CP-CAF3615",
+       "years": [
+        "2009-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "XJ6 DIVERSION F",
+     "fits": [
+      {
+       "sku": "CP-CAF3615",
+       "years": [
+        "2010-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "XJ6 SP",
+     "fits": [
+      {
+       "sku": "CP-CAF3615",
+       "years": [
+        "2013-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "XSR 700 ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF3707",
+       "years": [
+        "2016-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "XSR 900",
+     "fits": [
+      {
+       "sku": "CP-CAF3921",
+       "years": [
+        "2016-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "XTZ 700 TENERE ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF3707",
+       "years": [
+        "2019-2023"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "XTZ 700 TENERE EXPLORE ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF3707",
+       "years": [
+        "2023-"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "XTZ 700 TENERE EXTREME ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF3707",
+       "years": [
+        "2023-"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "XTZ 700 TENERE RALLY EDITION ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF3707",
+       "years": [
+        "2020-2023"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "XTZ 700 TENERE WORLD RAID ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF3707",
+       "years": [
+        "2022-2023"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "XTZ 700 TENERE WORLD RALLY ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF3707",
+       "years": [
+        "2023-"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "YBR 125",
+     "fits": [
+      {
+       "sku": "CP-CAF3103",
+       "years": [
+        "2005-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "YBR 125 CUSTOM",
+     "fits": [
+      {
+       "sku": "CP-CAF3103",
+       "years": [
+        "2009-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "YZF-R1",
+     "fits": [
+      {
+       "sku": "CP-CAF3923",
+       "years": [
+        "2009-2014"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "YZF-R1 60TH ANNIVERSARY",
+     "fits": [
+      {
+       "sku": "CP-CAF3924",
+       "years": [
+        "2016-"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "YZF-R1 RN321",
+     "fits": [
+      {
+       "sku": "CP-CAF3924",
+       "years": [
+        "2015-2019"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "YZF-R1M RN326",
+     "fits": [
+      {
+       "sku": "CP-CAF3924",
+       "years": [
+        "2015-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "YZF-R6",
+     "fits": [
+      {
+       "sku": "CP-CAF3614",
+       "years": [
+        "2008-2020"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "YZF-R6 GYTR KIT RACING",
+     "fits": [
+      {
+       "sku": "CP-CAF3614",
+       "years": [
+        "2022-2024"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "YZF-R7",
+     "fits": [
+      {
+       "sku": "CP-CAF3707",
+       "years": [
+        "2021-2024"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

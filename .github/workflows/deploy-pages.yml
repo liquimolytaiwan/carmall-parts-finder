@@ -7,12 +7,15 @@ name: deploy-pages
 # Plain static files, nothing to compile: upload the checkout and deploy it. A failed run
 # leaves the previously deployed site serving untouched.
 #
-# When a finder with a scheduled data refresh lands here, add `workflow_run` on that
-# workflow: pushes made with the default GITHUB_TOKEN never fire `push` workflows, which
-# is how carmall-ngk-finder's live site sat on stale data for two months in 2026.
-
 on:
   push:
+    branches: [main]
+  # refresh-data pushes with the default GITHUB_TOKEN, and GitHub never fires `push`
+  # workflows for those pushes — that is how carmall-ngk-finder's live site sat on stale
+  # data for two months in 2026. `workflow_run` is not subject to that rule.
+  workflow_run:
+    workflows: [refresh-data]
+    types: [completed]
     branches: [main]
   workflow_dispatch:
 
@@ -27,12 +30,32 @@ concurrency:
 
 jobs:
   deploy:
+    # refresh-data also ends red after publishing a partial build (exit 3), and that data
+    # is still newer than what is live — so deploy on failure too. data.json is checked
+    # below either way. Only a cancelled run is skipped.
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' || github.event.workflow_run.conclusion == 'failure'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v5
+
+      - name: Check each finder's data.json is present and parses
+        # A finder is one fetch of its data.json; shipping a truncated or invalid one
+        # renders an empty picker with no error the customer can act on.
+        run: |
+          python3 - <<'PY'
+          import json, sys
+          MIN_MODELS = {"filters": 100}
+          for name, floor in MIN_MODELS.items():
+              d = json.load(open(f"{name}/data.json"))
+              models = sum(len(b["models"]) for b in d["brands"])
+              print(f"{name}/data.json: {len(d['brands'])} brands, {models} models, generated {d['generated']}")
+              if models < floor:
+                  sys.exit(f"ERROR: {name} has only {models} models — data.json looks truncated")
+          PY
+
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:
