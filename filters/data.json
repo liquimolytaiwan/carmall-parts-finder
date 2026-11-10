@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T03:55:05Z",
+ "generated": "2026-11-10T04:08:26Z",
  "source": "CarMall Champion 空氣芯商品頁之車種對照表",
  "category_url": "https://www.carmall.com.tw/categories/brandlist/champion",
  "stats": {
@@ -345,8 +345,8 @@
    "url": "https://www.carmall.com.tw/products/champion-air-filter-yamaha-nmax-15-20",
    "sku": "CP-CAF3111",
    "price": 500.0,
-   "qty": 0,
-   "available": false,
+   "qty": 10,
+   "available": true,
    "oe": "2DP-E4451-00",
    "position": "空氣芯"
   },
@@ -389,8 +389,8 @@
    "url": "https://www.carmall.com.tw/products/champion-air-filter-yamaha-tmax530560-12-24",
    "sku": "CP-CAF3510",
    "price": 600.0,
-   "qty": 0,
-   "available": false,
+   "qty": 8,
+   "available": true,
    "oe": "59C-15408-00",
    "position": "右傳動空氣芯"
   },
@@ -411,8 +411,8 @@
    "url": "https://www.carmall.com.tw/products/champion-air-filter-yamaha-tmax530560-17-24",
    "sku": "CP-CAF3512",
    "price": 700.0,
-   "qty": 0,
-   "available": false,
+   "qty": 5,
+   "available": true,
    "oe": "BC3-15407-00",
    "position": "左傳動空氣芯"
   },
@@ -477,8 +477,8 @@
    "url": "https://www.carmall.com.tw/products/champion-air-filter-yamaha-tmax500-01-07",
    "sku": "CP-CAF3909",
    "price": 550.0,
-   "qty": 0,
-   "available": false,
+   "qty": 10,
+   "available": true,
    "oe": "4BH-14451-00、4BH-14451-01",
    "position": "空氣芯"
   },
