@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-10T04:13:19Z",
+ "generated": "2026-11-10T05:21:52Z",
  "source": "CarMall Champion 空氣芯商品頁之車種對照表",
  "category_url": "https://www.carmall.com.tw/categories/brandlist/champion",
  "stats": {
-  "products": 57,
-  "rows": 205,
+  "products": 58,
+  "rows": 209,
   "skipped": 0,
   "carried": 0
  },
@@ -62,6 +62,17 @@
    "qty": 5,
    "available": true,
    "oe": null,
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73491244,
+   "title": "【Champion台灣代理】Honda XADV/NC750 21-25空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-honda-xadvnc750-21-25",
+   "sku": "CP-CAF0717",
+   "price": 1000.0,
+   "qty": 5,
+   "available": true,
+   "oe": "17210-MKT-D00",
    "position": "空氣芯"
   },
   {
@@ -958,12 +969,51 @@
      ]
     },
     {
+     "name": "NC 750 XA",
+     "fits": [
+      {
+       "sku": "CP-CAF0717",
+       "years": [
+        "2021-2023"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "NC 750 XD DCT ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF0717",
+       "years": [
+        "2021-2023"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "NSS 750 FORZA DCT ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF0717",
+       "years": [
+        "2021-2023"
+       ]
+      }
+     ]
+    },
+    {
      "name": "X-ADV 750 DCT ABS",
      "fits": [
       {
        "sku": "CP-CAF0716",
        "years": [
         "2017-2018"
+       ]
+      },
+      {
+       "sku": "CP-CAF0717",
+       "years": [
+        "2021-2025"
        ]
       }
      ]
