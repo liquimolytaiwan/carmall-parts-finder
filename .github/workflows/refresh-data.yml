@@ -31,22 +31,31 @@ jobs:
           python-version: "3.12"
 
       - name: Unit tests (parsers and publish rules)
-        run: python tests/test_build_filters.py
-
-      - name: Rebuild air-filter data (Champion)
-        id: filters
         run: |
-          set +e
-          python tools/build_filters.py
-          rc=$?
-          echo "rc=$rc" >> "$GITHUB_OUTPUT"
-          [ $rc -eq 0 ] || [ $rc -eq 3 ]
+          python tests/test_build_filters.py
+          python tests/test_build_pads.py
+
+      # Each finder builds independently: one brand's broken page must not stop the other
+      # finders' prices from updating. A refusal (1) leaves that finder's data.json as it was.
+      - name: Rebuild finder data
+        id: build
+        run: |
+          worst=0
+          for b in filters pads; do
+            set +e
+            python "tools/build_$b.py"
+            rc=$?
+            set -e
+            echo "build_$b exit $rc"
+            if [ $rc -ne 0 ] && [ $rc -ne 3 ]; then worst=1; elif [ $rc -eq 3 ] && [ $worst -eq 0 ]; then worst=3; fi
+          done
+          echo "rc=$worst" >> "$GITHUB_OUTPUT"
 
       - name: Commit and push
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add filters/data.json
+          git add filters/data.json pads/data.json
           if git diff --cached --quiet; then
             echo "no changes"
             exit 0
@@ -66,8 +75,8 @@ jobs:
           echo "push failed after 5 attempts" >&2
           exit 1
 
-      - name: Fail if products or rows were skipped
-        if: steps.filters.outputs.rc == '3'
+      - name: Fail if a build refused or skipped something
+        if: steps.build.outputs.rc != '0'
         run: |
-          echo "::error::Some products or table rows were skipped — see the 'Rebuild' step log (PROBLEM lines)."
+          echo "::error::A finder build refused to publish or had PROBLEM/CARRIED lines — see the 'Rebuild finder data' log."
           exit 1

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>來令片快速查詢 | CarMall</title>
+<meta name="description" content="選擇機車廠牌與車款，立即查到適用的 NISSIN 煞車來令片並直接購買" />
+<link rel="preconnect" href="https://www.carmall.com.tw" />
+<link rel="stylesheet" href="../assets/finder.css" />
+</head>
+<body>
+<div class="fd" id="fd">
+  <a class="fd-back" id="back-hub" href="https://liquimolytaiwan.github.io/carmall-parts-finder/" hidden>← 換別的商品</a>
+  <header class="fd-head">
+    <h1 class="fd-title ico-pad">來令片快速查詢</h1>
+    <p class="fd-sub">選擇廠牌、車款，立即查到適用的煞車來令片並一鍵購買</p>
+  </header>
+
+  <div class="fd-steps">
+    <label class="fd-field">
+      <span class="fd-label"><i>1</i> 廠牌</span>
+      <span class="fd-select">
+        <select id="sel-brand" aria-label="選擇機車廠牌">
+          <option value="">載入中…</option>
+        </select>
+      </span>
+    </label>
+
+    <label class="fd-field">
+      <span class="fd-label"><i>2</i> 車款</span>
+      <span class="fd-select">
+        <select id="sel-model" aria-label="選擇車款" disabled>
+          <option value="">請先選擇廠牌</option>
+        </select>
+      </span>
+    </label>
+
+    <label class="fd-field" id="field-year" hidden>
+      <span class="fd-label"><i>3</i> 出廠年份</span>
+      <span class="fd-select">
+        <select id="sel-year" aria-label="選擇出廠年份">
+          <option value="">請選擇出廠年份</option>
+        </select>
+      </span>
+    </label>
+  </div>
+
+  <div id="result" class="fd-result" hidden></div>
+
+  <p class="fd-foot">
+    適用資料來源：NISSIN 商品頁之適用車款表。購買前請確認車型、年份與卡鉗規格是否相符。<br>
+    價格與庫存每日同步，實際成交以商品頁面為準。
+  </p>
+</div>
+
+<script src="app.js"></script>
+<script src="../assets/finder.js"></script>
+</body>
+</html>

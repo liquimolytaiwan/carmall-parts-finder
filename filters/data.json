@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-10T03:49:06Z",
+ "generated": "2026-11-10T03:55:05Z",
  "source": "CarMall Champion 空氣芯商品頁之車種對照表",
  "category_url": "https://www.carmall.com.tw/categories/brandlist/champion",
  "stats": {
-  "products": 56,
-  "rows": 202,
+  "products": 57,
+  "rows": 205,
   "skipped": 0,
   "carried": 0
  },
@@ -615,6 +615,17 @@
    "position": "空氣芯"
   },
   {
+   "product_id": 73660288,
+   "title": "【Champion台灣代理】Aprilia RS/Tuono660空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-aprilia-rstuono660",
+   "sku": "CP-CAF9004",
+   "price": 600.0,
+   "qty": 5,
+   "available": true,
+   "oe": "2B006532",
+   "position": "空氣芯"
+  },
+  {
    "product_id": 73490112,
    "title": "【Champion台灣代理】Honda CB400SF空氣芯 Air Filter",
    "url": "https://www.carmall.com.tw/products/champion-air-filter-honda-cb400sf",
@@ -653,6 +664,18 @@
      ]
     },
     {
+     "name": "RS 660",
+     "fits": [
+      {
+       "sku": "CP-CAF9004",
+       "years": [
+        "2020-",
+        "2023-"
+       ]
+      }
+     ]
+    },
+    {
      "name": "RSV 1000 R/RR/FACTORY/MILLE NERA",
      "fits": [
       {
@@ -681,6 +704,17 @@
        "sku": "CP-CAF5101",
        "years": [
         "2005-2014"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "TUONO 660",
+     "fits": [
+      {
+       "sku": "CP-CAF9004",
+       "years": [
+        "2021-"
        ]
       }
      ]

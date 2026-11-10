@@ -47,7 +47,7 @@ jobs:
         run: |
           python3 - <<'PY'
           import json, sys
-          MIN_MODELS = {"filters": 100}
+          MIN_MODELS = {"filters": 100, "pads": 100}
           for name, floor in MIN_MODELS.items():
               d = json.load(open(f"{name}/data.json"))
               models = sum(len(b["models"]) for b in d["brands"])
