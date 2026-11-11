@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-10T05:21:52Z",
+ "generated": "2026-11-11T01:45:38Z",
  "source": "CarMall Champion 空氣芯商品頁之車種對照表",
  "category_url": "https://www.carmall.com.tw/categories/brandlist/champion",
  "stats": {
-  "products": 58,
-  "rows": 209,
+  "products": 64,
+  "rows": 234,
   "skipped": 0,
   "carried": 0
  },
@@ -125,7 +125,7 @@
    "url": "https://www.carmall.com.tw/products/champion-air-filter-kawasaki-zx-6r-09-20",
    "sku": "CP-CAF1609",
    "price": 1000.0,
-   "qty": 15,
+   "qty": 14,
    "available": true,
    "oe": "11013-0036",
    "position": "空氣芯"
@@ -538,6 +538,17 @@
    "position": "空氣芯"
   },
   {
+   "product_id": 73665110,
+   "title": "【Champion台灣代理】Ducati Monster 08-22空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-ducati-monster-08-22",
+   "sku": "CP-CAF5001",
+   "price": 750.0,
+   "qty": 6,
+   "available": true,
+   "oe": "426.1.019.1A、426.1.025.1A",
+   "position": "空氣芯"
+  },
+  {
    "product_id": 73491509,
    "title": "【Champion台灣代理】Aprilia RSV4 09-14空氣芯 Air Filter",
    "url": "https://www.carmall.com.tw/products/champion-air-filter-aprilia-rsv4-09-14",
@@ -623,6 +634,61 @@
    "qty": 1,
    "available": true,
    "oe": null,
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73666293,
+   "title": "【Champion台灣代理】BMW C600/C650 11-20空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-bmw-c600c650-11-20",
+   "sku": "CP-CAF6604",
+   "price": 750.0,
+   "qty": 2,
+   "available": true,
+   "oe": "13727724933",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73668109,
+   "title": "【Champion台灣代理】BMW F750/F850 17-19空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-bmw-f750f850-17-19",
+   "sku": "CP-CAF6801",
+   "price": 800.0,
+   "qty": 2,
+   "available": true,
+   "oe": "13728561572",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73666842,
+   "title": "【Champion台灣代理】BMW F650/F800 06-18空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-bmw-f650f800-06-18",
+   "sku": "CP-CAF6913",
+   "price": 700.0,
+   "qty": 1,
+   "available": true,
+   "oe": "13 71 7 678 281、13 71 7 679 366、13 71 8 529 998",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73668426,
+   "title": "【Champion台灣代理】BMW S1000車系 09-22空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-bmw-s1000-09-22",
+   "sku": "CP-CAF6918",
+   "price": 1500.0,
+   "qty": 3,
+   "available": true,
+   "oe": "13717717842",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73668534,
+   "title": "【Champion台灣代理】BMW S1000車系 19-22空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-bmw-s1000-19-22",
+   "sku": "CP-CAF6919",
+   "price": 1000.0,
+   "qty": 1,
+   "available": true,
+   "oe": "13729444643",
    "position": "空氣芯"
   },
   {
@@ -737,6 +803,281 @@
        "sku": "CP-CAF5101",
        "years": [
         "2015-"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "BMW",
+   "models": [
+    {
+     "name": "C 600 SPORT",
+     "fits": [
+      {
+       "sku": "CP-CAF6604",
+       "years": [
+        "2011-2015"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "C 650 GT",
+     "fits": [
+      {
+       "sku": "CP-CAF6604",
+       "years": [
+        "2011-2018",
+        "2016-2020"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "C 650 SPORT",
+     "fits": [
+      {
+       "sku": "CP-CAF6604",
+       "years": [
+        "2015-2020"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "F 650/700/800 GS/GT/R/S/ST系列",
+     "fits": [
+      {
+       "sku": "CP-CAF6913",
+       "years": [
+        "2006-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "F 750 GS",
+     "fits": [
+      {
+       "sku": "CP-CAF6801",
+       "years": [
+        "2018-2019"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "F 850 GS",
+     "fits": [
+      {
+       "sku": "CP-CAF6801",
+       "years": [
+        "2018-2022"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "F 850 GS ADVENTURE",
+     "fits": [
+      {
+       "sku": "CP-CAF6801",
+       "years": [
+        "2020-2022"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "F 850 GS RALLYE",
+     "fits": [
+      {
+       "sku": "CP-CAF6801",
+       "years": [
+        "2017-2019"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "F 900 R",
+     "fits": [
+      {
+       "sku": "CP-CAF6801",
+       "years": [
+        "2020-2022"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "F 900 XR",
+     "fits": [
+      {
+       "sku": "CP-CAF6801",
+       "years": [
+        "2020-2022"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "HP4 RACE",
+     "fits": [
+      {
+       "sku": "CP-CAF6918",
+       "years": [
+        "2017-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "M 1000 RR",
+     "fits": [
+      {
+       "sku": "CP-CAF6919",
+       "years": [
+        "2021-2022"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "S 1000 R",
+     "fits": [
+      {
+       "sku": "CP-CAF6919",
+       "years": [
+        "2021-2022"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "S 1000 R/RR/XR系列",
+     "fits": [
+      {
+       "sku": "CP-CAF6918",
+       "years": [
+        "2009-2022"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "S 1000 RR",
+     "fits": [
+      {
+       "sku": "CP-CAF6919",
+       "years": [
+        "2019-2022"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "S 1000 XR K69",
+     "fits": [
+      {
+       "sku": "CP-CAF6919",
+       "years": [
+        "2020-2022"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "DUCATI",
+   "models": [
+    {
+     "name": "GT 1000/GT1000 TOURING",
+     "fits": [
+      {
+       "sku": "CP-CAF5001",
+       "years": [
+        "2007-2010"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "HYPERMOTARD 939/939SP",
+     "fits": [
+      {
+       "sku": "CP-CAF5001",
+       "years": [
+        "2016-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "HYPERMOTARD/HYPERSTRADA/MONSTER 821系列",
+     "fits": [
+      {
+       "sku": "CP-CAF5001",
+       "years": [
+        "2013-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "HYPERMOTARD/MONSTER 1100系列",
+     "fits": [
+      {
+       "sku": "CP-CAF5001",
+       "years": [
+        "2008-2014"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "HYPERMOTARD/MONSTER/SCRAMBLER 796/803系列",
+     "fits": [
+      {
+       "sku": "CP-CAF5001",
+       "years": [
+        "2010-2022"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "MONSTER 1200系列",
+     "fits": [
+      {
+       "sku": "CP-CAF5001",
+       "years": [
+        "2014-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "MONSTER 696",
+     "fits": [
+      {
+       "sku": "CP-CAF5001",
+       "years": [
+        "2009-2014"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "SCRAMBLER SIXTY2",
+     "fits": [
+      {
+       "sku": "CP-CAF5001",
+       "years": [
+        "2016-2020"
        ]
       }
      ]
