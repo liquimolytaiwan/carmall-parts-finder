@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-11T01:45:38Z",
+ "generated": "2026-11-11T11:37:55Z",
  "source": "CarMall Champion 空氣芯商品頁之車種對照表",
  "category_url": "https://www.carmall.com.tw/categories/brandlist/champion",
  "stats": {
-  "products": 64,
-  "rows": 234,
+  "products": 67,
+  "rows": 253,
   "skipped": 0,
   "carried": 0
  },
@@ -538,6 +538,17 @@
    "position": "空氣芯"
   },
   {
+   "product_id": 73698947,
+   "title": "【Champion台灣代理】Vespa LX125/150 05-17空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-vespa-lx125150-05-17",
+   "sku": "CP-CAF4202DS",
+   "price": 300.0,
+   "qty": 8,
+   "available": true,
+   "oe": "843194",
+   "position": "空氣芯"
+  },
+  {
    "product_id": 73665110,
    "title": "【Champion台灣代理】Ducati Monster 08-22空氣芯 Air Filter",
    "url": "https://www.carmall.com.tw/products/champion-air-filter-ducati-monster-08-22",
@@ -670,6 +681,28 @@
    "position": "空氣芯"
   },
   {
+   "product_id": 73696835,
+   "title": "【Champion台灣代理】BMW R1200/R9T 10-22空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-bmw-r1200r9t-10-22",
+   "sku": "CP-CAF6914",
+   "price": 650.0,
+   "qty": 3,
+   "available": true,
+   "oe": "13 71 7 706 414",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73697111,
+   "title": "【Champion台灣代理】BMW R1250 13-22空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-bmw-r1250-13-22",
+   "sku": "CP-CAF6915",
+   "price": 650.0,
+   "qty": 1,
+   "available": true,
+   "oe": "13 72 7 726 799",
+   "position": "空氣芯"
+  },
+  {
    "product_id": 73668426,
    "title": "【Champion台灣代理】BMW S1000車系 09-22空氣芯 Air Filter",
    "url": "https://www.carmall.com.tw/products/champion-air-filter-bmw-s1000-09-22",
@@ -781,6 +814,28 @@
        "sku": "CP-CAF5101",
        "years": [
         "2005-2014"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "SPORTCITY 125 ONE",
+     "fits": [
+      {
+       "sku": "CP-CAF4202DS",
+       "years": [
+        "2008-2013"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "SPORTCITY ONE 4T",
+     "fits": [
+      {
+       "sku": "CP-CAF4202DS",
+       "years": [
+        "2008-2010"
        ]
       }
      ]
@@ -941,6 +996,61 @@
        "sku": "CP-CAF6919",
        "years": [
         "2021-2022"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "R 1200 GS/GS ADVENTURE",
+     "fits": [
+      {
+       "sku": "CP-CAF6914",
+       "years": [
+        "2010-2013"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "R 1200 GS/GS ADVENTURE/RS/RT/R系列",
+     "fits": [
+      {
+       "sku": "CP-CAF6915",
+       "years": [
+        "2013-2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "R 1200 R/RT",
+     "fits": [
+      {
+       "sku": "CP-CAF6914",
+       "years": [
+        "2010-2014"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "R 1250 GS/GS ADVENTURE/R/RS/RT系列",
+     "fits": [
+      {
+       "sku": "CP-CAF6915",
+       "years": [
+        "2019-2022"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "R NINET系列",
+     "fits": [
+      {
+       "sku": "CP-CAF6914",
+       "years": [
+        "2013-2022"
        ]
       }
      ]
@@ -2404,6 +2514,143 @@
        "sku": "CP-CAF5501",
        "years": [
         "2015-2017"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "VESPA",
+   "models": [
+    {
+     "name": "150 S 4T",
+     "fits": [
+      {
+       "sku": "CP-CAF4202DS",
+       "years": [
+        "2008-2012"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "50 PRIMAVERA 4T 4V",
+     "fits": [
+      {
+       "sku": "CP-CAF4202DS",
+       "years": [
+        "2013-2017"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "LX 125",
+     "fits": [
+      {
+       "sku": "CP-CAF4202DS",
+       "years": [
+        "2005-2010"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "LX 125 I.E.",
+     "fits": [
+      {
+       "sku": "CP-CAF4202DS",
+       "years": [
+        "2009-2013"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "LX 150",
+     "fits": [
+      {
+       "sku": "CP-CAF4202DS",
+       "years": [
+        "2005-2012"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "LX 50 4T",
+     "fits": [
+      {
+       "sku": "CP-CAF4202DS",
+       "years": [
+        "2005-2013"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "LXV 125",
+     "fits": [
+      {
+       "sku": "CP-CAF4202DS",
+       "years": [
+        "2006-2013"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "S 125",
+     "fits": [
+      {
+       "sku": "CP-CAF4202DS",
+       "years": [
+        "2007-2010"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "S 125 4T I.E.",
+     "fits": [
+      {
+       "sku": "CP-CAF4202DS",
+       "years": [
+        "2009-2015"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "S 150 I.E.",
+     "fits": [
+      {
+       "sku": "CP-CAF4202DS",
+       "years": [
+        "2009-2012"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "S 4T 4V SPORT",
+     "fits": [
+      {
+       "sku": "CP-CAF4202DS",
+       "years": [
+        "2008-2015"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "SPRINT 50 4T",
+     "fits": [
+      {
+       "sku": "CP-CAF4202DS",
+       "years": [
+        "2014-2015"
        ]
       }
      ]
