@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-12T02:45:36Z",
+ "generated": "2026-11-12T12:00:54Z",
  "source": "CarMall Champion 空氣芯商品頁之車種對照表",
  "category_url": "https://www.carmall.com.tw/categories/brandlist/champion",
  "stats": {
-  "products": 67,
-  "rows": 253,
+  "products": 69,
+  "rows": 260,
   "skipped": 0,
   "carried": 0
  },
@@ -106,6 +106,17 @@
    "qty": 3,
    "available": true,
    "oe": "17210-MEJ-981",
+   "position": "空氣芯"
+  },
+  {
+   "product_id": 73491428,
+   "title": "【Champion台灣代理】Honda CBR1000RR 17-18空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-honda-cbr1000rr-17-18",
+   "sku": "CP-CAF0934",
+   "price": 1050.0,
+   "qty": 2,
+   "available": true,
+   "oe": "17210-MKF-D40",
    "position": "空氣芯"
   },
   {
@@ -382,6 +393,17 @@
    "available": true,
    "oe": "B74-E5407-00",
    "position": "傳動空氣芯"
+  },
+  {
+   "product_id": 73145082,
+   "title": "【Champion台灣代理】Yamaha TMAX500/530主空氣芯 Air Filter",
+   "url": "https://www.carmall.com.tw/products/champion-air-filter-yamaha-tmax500530",
+   "sku": "CP-CAF3507WS",
+   "price": 750.0,
+   "qty": 7,
+   "available": true,
+   "oe": "4B5-14451-00",
+   "position": "主空氣芯"
   },
   {
    "product_id": 73145948,
@@ -1293,6 +1315,12 @@
        "years": [
         "2008-2016"
        ]
+      },
+      {
+       "sku": "CP-CAF0934",
+       "years": [
+        "2017-2018"
+       ]
       }
      ]
     },
@@ -1303,6 +1331,17 @@
        "sku": "CP-CAF0931",
        "years": [
         "2014-2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "CBR 1000 RR FIREBLADE SP/SP2",
+     "fits": [
+      {
+       "sku": "CP-CAF0934",
+       "years": [
+        "2017-2018"
        ]
       }
      ]
@@ -2947,8 +2986,25 @@
      ]
     },
     {
+     "name": "SR 400",
+     "fits": [
+      {
+       "sku": "CP-CAF3507WS",
+       "years": [
+        "2014-2016"
+       ]
+      }
+     ]
+    },
+    {
      "name": "TMAX 500",
      "fits": [
+      {
+       "sku": "CP-CAF3507WS",
+       "years": [
+        "2008-2011"
+       ]
+      },
       {
        "sku": "CP-CAF3909",
        "years": [
@@ -2959,8 +3015,25 @@
      ]
     },
     {
+     "name": "TMAX 500 SV ABS",
+     "fits": [
+      {
+       "sku": "CP-CAF3507WS",
+       "years": [
+        "2011-"
+       ]
+      }
+     ]
+    },
+    {
      "name": "TMAX 530",
      "fits": [
+      {
+       "sku": "CP-CAF3507WS",
+       "years": [
+        "2012-2016"
+       ]
+      },
       {
        "sku": "CP-CAF3509",
        "years": [
@@ -2978,6 +3051,12 @@
     {
      "name": "TMAX 530 ABS",
      "fits": [
+      {
+       "sku": "CP-CAF3507WS",
+       "years": [
+        "2012-2016"
+       ]
+      },
       {
        "sku": "CP-CAF3511",
        "years": [
