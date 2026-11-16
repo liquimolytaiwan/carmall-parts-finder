@@ -47,6 +47,17 @@
       d.offers.forEach(function (o) { OFFERS[o.variant_id] = o; });
       clearSelect(elBrand, "請選擇廠牌");
       d.brands.forEach(function (b, i) { elBrand.appendChild(opt(String(i), b.name)); });
+      // Shareable link (../assets/link.js, optional; docs/share-links.md). Keys are names,
+      // never option indexes — the order in data.json moves with every rebuild.
+      (window.CarmallLinkQueue = window.CarmallLinkQueue || []).push({
+        finder: "tires",
+        title: document.title.replace(/\s*\|.*$/, ""),
+        result: elResult,
+        steps: [
+          { el: elBrand, p: "b", key: function (v) { return DATA.brands[+v].name; } },
+          { el: elModel, p: "m", key: function (v) { var b = currentBrand(); return b ? b.models[+v].name : ""; } }
+        ]
+      });
       postHeight();
     })
     .catch(function () {

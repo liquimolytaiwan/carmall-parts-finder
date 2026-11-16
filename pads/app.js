@@ -1,5 +1,6 @@
 /* Brake-pad finder: page-specific wording only. The flow lives in ../assets/finder.js. */
 window.FINDER = {
+  finder: "pads",   // share-link key = this folder's name (docs/share-links.md)
   part: function (p) { return (p.position || "") + "來令片"; },
   brandTag: "NISSIN",
   titleOne: 'NISSIN 煞車來令片　<span>點選前往購買</span>',

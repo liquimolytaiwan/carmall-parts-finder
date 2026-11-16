@@ -109,6 +109,7 @@
       d.products.forEach(function (p) { PRODUCTS[p.sku] = p; });
       clearSelect(elBrand, "請選擇廠牌");
       d.brands.forEach(function (b, i) { elBrand.appendChild(opt(String(i), b.name)); });
+      shareLink();
       postHeight();
     })
     .catch(function () {
@@ -146,6 +147,22 @@
     var g = SEGMENTS[parseInt(elYear.value, 10)];
     render(m, g.set.map(function (i) { return m.fits[i]; }), segLabel(g));
   });
+
+  // Shareable link (assets/link.js, optional). Keys are names, never option indexes —
+  // the order in data.json moves with every rebuild.
+  function shareLink() {
+    if (!C.finder) return;
+    (window.CarmallLinkQueue = window.CarmallLinkQueue || []).push({
+      finder: C.finder,
+      title: document.title.replace(/\s*\|.*$/, ""),
+      result: elResult,
+      steps: [
+        { el: elBrand, p: "b", key: function (v) { return DATA.brands[+v].name; } },
+        { el: elModel, p: "m", key: function (v) { var b = currentBrand(); return b ? b.models[+v].name : ""; } },
+        { el: elYear, p: "y", key: function (v) { var g = SEGMENTS[+v]; return g ? segLabel(g) : ""; } }
+      ]
+    });
+  }
 
   function hideResult() { elResult.hidden = true; elResult.innerHTML = ""; }
   function hideYear() { fldYear.hidden = true; clearSelect(elYear, "請選擇出廠年份"); SEGMENTS = []; }

@@ -16,4 +16,11 @@
   window.addEventListener("load", postHeight);
   window.addEventListener("resize", postHeight);
   if (window.ResizeObserver) { new ResizeObserver(postHeight).observe(root); }
+
+  // Back on the hub: tell the store page to drop the previous finder's #f=… from its
+  // address bar, or a reload (or a copied URL) would jump straight back into that finder.
+  // docs/share-links.md
+  try {
+    if (parent !== window) parent.postMessage({ type: "carmallFinderState", finder: "", state: "" }, "*");
+  } catch (e) {}
 })();

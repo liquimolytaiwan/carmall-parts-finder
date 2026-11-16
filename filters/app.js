@@ -1,5 +1,6 @@
 /* Air-filter finder: page-specific wording only. The flow lives in ../assets/finder.js. */
 window.FINDER = {
+  finder: "filters",   // share-link key = this folder's name (docs/share-links.md)
   part: function (p) { return p.position; },
   brandTag: "Champion",
   titleOne: 'Champion 空氣芯　<span>點選前往購買</span>',

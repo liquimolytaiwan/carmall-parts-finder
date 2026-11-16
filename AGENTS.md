@@ -5,6 +5,8 @@ CarMall「車型對照查詢」：一個整合入口頁（先選商品類別 →
 
 - GitHub 帳號：liquimolytaiwan（`gh auth switch -u liquimolytaiwan`）；commit email `manhowtrading@gmail.com`
 - 適應表的事實來源是 CarMall 商品頁內文的表格 —— 表格版型是 Jerry 手動維護的介面契約，解析失敗要大聲失敗、保留上一份資料，不要靜默少車
+- 分享連結（店面網址 `#f=…&b=…&m=…&y=…`）：`assets/link.js` 五個查詢器共用（雨刷、火星塞 repo 也從這裡載入），
+  連結格式已對外發出、不能隨便改 → `docs/share-links.md`
 
 ## Agent skills
 
