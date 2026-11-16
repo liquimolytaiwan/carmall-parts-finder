@@ -43,6 +43,9 @@
     if (n == null) return "-";
     return String(Math.round(n)).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
   }
+  // "YAMAHA 山葉": English + the Taiwanese name (brands[].tw, taken from the plug finder
+  // at build time — tools/brand_names.py). Display only; b.name stays the lookup key.
+  function disp(b) { return b.tw ? b.name + " " + b.tw : b.name; }
 
   // ---- years ----
   // Ranges come straight from the product tables: "2015-2018", "2018-" (open), "2019".
@@ -108,7 +111,7 @@
       DATA = d;
       d.products.forEach(function (p) { PRODUCTS[p.sku] = p; });
       clearSelect(elBrand, "請選擇廠牌");
-      d.brands.forEach(function (b, i) { elBrand.appendChild(opt(String(i), b.name)); });
+      d.brands.forEach(function (b, i) { elBrand.appendChild(opt(String(i), disp(b))); });
       shareLink();
       postHeight();
     })
@@ -179,7 +182,7 @@
   // ---- render ----
   function render(m, fits, yearPicked) {
     var b = currentBrand();
-    var head = '<div class="rc-top"><div class="rc-veh">' + esc(b.name + " " + m.name) +
+    var head = '<div class="rc-top"><div class="rc-veh">' + esc(disp(b) + " " + m.name) +
       (yearPicked ? '<small>出廠年份 ' + esc(yearPicked) + '</small>' : "") + '</div></div>';
     var positions = [], perPos = {};
     fits.forEach(function (f) {

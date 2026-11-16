@@ -38,6 +38,9 @@
     if (n == null) return "-";
     return String(Math.round(n)).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
   }
+  // "KYMCO 光陽": English + the Taiwanese name (brands[].tw, taken from the plug finder
+  // at build time — tools/brand_names.py). Display only; b.name stays the lookup key.
+  function disp(b) { return b.tw ? b.name + " " + b.tw : b.name; }
 
   // ---- load data ----
   fetch("data.json", { cache: "no-cache" })
@@ -46,7 +49,7 @@
       DATA = d;
       d.offers.forEach(function (o) { OFFERS[o.variant_id] = o; });
       clearSelect(elBrand, "請選擇廠牌");
-      d.brands.forEach(function (b, i) { elBrand.appendChild(opt(String(i), b.name)); });
+      d.brands.forEach(function (b, i) { elBrand.appendChild(opt(String(i), disp(b))); });
       // Shareable link (../assets/link.js, optional; docs/share-links.md). Keys are names,
       // never option indexes — the order in data.json moves with every rebuild.
       (window.CarmallLinkQueue = window.CarmallLinkQueue || []).push({
@@ -101,7 +104,7 @@
   }
 
   function render(b, m) {
-    var head = '<div class="rc-top"><div class="rc-veh">' + esc(b.name + " " + m.name) +
+    var head = '<div class="rc-top"><div class="rc-veh">' + esc(disp(b) + " " + m.name) +
       '<small>原廠輪胎尺寸　前輪 ' + esc(sizesText(m.front)) + '｜後輪 ' + esc(sizesText(m.rear)) +
       '</small></div></div>';
     var body = '<div class="note note-warn">' + iconInfo() + '<span><b>請先核對輪胎側面的尺寸。</b>' +

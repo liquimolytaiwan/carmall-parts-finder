@@ -36,6 +36,7 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import brand_names   # noqa: E402
 import carmall       # noqa: E402
 import finder_build  # noqa: E402
 import tables        # noqa: E402
@@ -448,6 +449,9 @@ def main() -> int:
     except carmall.FetchError as e:
         print(f"REFUSE  抓取失敗，保留上一版資料：{e}", file=sys.stderr)
         return 1
+    if data is not None:
+        # Display names only; never changes what gets published or the exit code.
+        report += brand_names.apply(data, previous)
     for line in report:
         print(line)
     if data is not None:

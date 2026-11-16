@@ -27,6 +27,7 @@ names and the brand/model strings as an API: add fields freely, do not rename or
   }],
   "brands": [{
     "name": "YAMAHA",                          // upper-cased as written in the product tables
+    "tw": "山葉",                              // display only: Taiwanese name from the plug finder (tools/brand_names.py); "" = English only
     "models": [{
       "name": "TMAX 530 ABS",                  // exactly as written in the product tables
       "fits": [                                // every part for this bike, main filter first
@@ -78,6 +79,7 @@ for each — the page and the blog render these lists as they are, they don't re
   }],
   "brands": [{
     "name": "YAMAHA",                          // upper-cased as written in the product tables
+    "tw": "山葉",                              // display only: Taiwanese name from the plug finder (tools/brand_names.py); "" = English only
     "models": [{
       "name": "NMAX",                          // exactly as written in the product tables
       "front": [{ "size": "110/70-13", "tyres": [89888917], "listed_by": [72972502, 73490813] }],

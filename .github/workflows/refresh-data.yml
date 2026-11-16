@@ -35,6 +35,7 @@ jobs:
           python tests/test_build_filters.py
           python tests/test_build_pads.py
           python tests/test_build_tires.py
+          python tests/test_brand_names.py
 
       # Each finder builds independently: one brand's broken page must not stop the other
       # finders' prices from updating. A refusal (1) leaves that finder's data.json as it was.

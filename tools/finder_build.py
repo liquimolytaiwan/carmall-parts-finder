@@ -24,6 +24,7 @@ import sys
 from dataclasses import dataclass, field
 from typing import Callable
 
+import brand_names
 import carmall
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -178,6 +179,9 @@ def main(spec: Spec) -> int:
     except carmall.FetchError as e:
         print(f"REFUSE  抓取失敗，保留上一版資料：{e}", file=sys.stderr)
         return 1
+    if data is not None:
+        # Display names only; never changes what gets published or the exit code.
+        report += brand_names.apply(data, previous)
     for line in report:
         print(line)
     if data is not None:
