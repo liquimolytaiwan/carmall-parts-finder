@@ -62,4 +62,10 @@ data.json 每天重建兩次，順序會變。序號連結過幾天就指到別�
 - 惡意連結（`f=//evil.com`、`../`、大寫、`javascript:`、HTML 標籤、超長值）與別的 iframe 假冒訊息都擋下
 - 舊嵌入碼 + 新查詢器：高度照常、分享鈕不出現、店面網址不動
 
-**沒測到**：iPhone Safari／LINE 內建瀏覽器的分享選單（Chromium 模擬不了），上線後要用手機實按一次。
+- 正式站（Jerry 貼上新嵌入碼後）：三頁 6 種連結、手機分享／取消／被擋改複製／複製被擋顯示連結框；
+  選車、切換、回入口時 GA 0 筆 page_view
+
+測試腳本在 `tests/e2e/`（怎麼跑見那裡的 README），改到 link.js 或嵌入碼就重跑 flow.js 與 roundtrip.js。
+
+**沒測到**：iPhone Safari／LINE 內建瀏覽器的分享選單（Chromium 模擬不了），要用手機實按一次；
+Meta 像素抓不到它的送出紀錄，沒有量到。
