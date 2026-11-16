@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T01:48:36Z",
+ "generated": "2026-11-16T03:11:07Z",
  "source": "CarMall NISSIN 來令片商品頁之適用車款表",
  "category_url": "https://www.carmall.com.tw/categories/brandlist/nissin",
  "stats": {
@@ -53,6 +53,7 @@
  "brands": [
   {
    "name": "APRILIA",
+   "tw": "阿普利亞",
    "models": [
     {
      "name": "CAPONORD 1200 / RALLY",
@@ -146,6 +147,7 @@
   },
   {
    "name": "BMW",
+   "tw": "寶馬",
    "models": [
     {
      "name": "C1 125",
@@ -261,6 +263,7 @@
   },
   {
    "name": "BUELL",
+   "tw": "",
    "models": [
     {
      "name": "CYCLONE M2",
@@ -322,6 +325,7 @@
   },
   {
    "name": "DUCATI",
+   "tw": "杜卡迪",
    "models": [
     {
      "name": "GT1000",
@@ -482,6 +486,7 @@
   },
   {
    "name": "HARLEY DAVIDSON",
+   "tw": "哈雷",
    "models": [
     {
      "name": "XL 1200C / CA / CB / CP / V / X",
@@ -509,6 +514,7 @@
   },
   {
    "name": "HONDA",
+   "tw": "本田",
    "models": [
     {
      "name": "400X / ABS",
@@ -1046,6 +1052,7 @@
   },
   {
    "name": "HUSQVARNA",
+   "tw": "",
    "models": [
     {
      "name": "NUDA 900",
@@ -1139,6 +1146,7 @@
   },
   {
    "name": "KAWASAKI",
+   "tw": "川崎",
    "models": [
     {
      "name": "1400GTR / ABS",
@@ -1210,6 +1218,7 @@
   },
   {
    "name": "KTM",
+   "tw": "",
    "models": [
     {
      "name": "640 DUKE II",
@@ -1391,6 +1400,7 @@
   },
   {
    "name": "SUZUKI",
+   "tw": "鈴木",
    "models": [
     {
      "name": "GIXXER 150",
@@ -1464,6 +1474,7 @@
   },
   {
    "name": "TRIUMPH",
+   "tw": "凱旋",
    "models": [
     {
      "name": "DAYTONA 955I",
@@ -1502,6 +1513,7 @@
   },
   {
    "name": "YAMAHA",
+   "tw": "山葉",
    "models": [
     {
      "name": "AUGUR 155",

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T01:48:30Z",
+ "generated": "2026-11-16T03:11:03Z",
  "source": "CarMall Champion 空氣芯商品頁之車種對照表",
  "category_url": "https://www.carmall.com.tw/categories/brandlist/champion",
  "stats": {
@@ -772,6 +772,7 @@
  "brands": [
   {
    "name": "APRILIA",
+   "tw": "阿普利亞",
    "models": [
     {
      "name": "PEGASO 650 CATCON.",
@@ -888,6 +889,7 @@
   },
   {
    "name": "BMW",
+   "tw": "寶馬",
    "models": [
     {
      "name": "C 600 SPORT",
@@ -1125,6 +1127,7 @@
   },
   {
    "name": "DUCATI",
+   "tw": "杜卡迪",
    "models": [
     {
      "name": "GT 1000/GT1000 TOURING",
@@ -1218,6 +1221,7 @@
   },
   {
    "name": "HONDA",
+   "tw": "本田",
    "models": [
     {
      "name": "CB 1100",
@@ -1512,6 +1516,7 @@
   },
   {
    "name": "KAWASAKI",
+   "tw": "川崎",
    "models": [
     {
      "name": "ER 6F",
@@ -1817,6 +1822,7 @@
   },
   {
    "name": "KTM",
+   "tw": "",
    "models": [
     {
      "name": "1050 ADVENTURE",
@@ -1976,6 +1982,7 @@
   },
   {
    "name": "SUZUKI",
+   "tw": "鈴木",
    "models": [
     {
      "name": "ADDRESS 110",
@@ -2352,6 +2359,7 @@
   },
   {
    "name": "TRIUMPH",
+   "tw": "凱旋",
    "models": [
     {
      "name": "BONNEVILLE 100 SE",
@@ -2561,6 +2569,7 @@
   },
   {
    "name": "VESPA",
+   "tw": "偉士牌",
    "models": [
     {
      "name": "150 S 4T",
@@ -2698,6 +2707,7 @@
   },
   {
    "name": "YAMAHA",
+   "tw": "山葉",
    "models": [
     {
      "name": "CYGNUS X",

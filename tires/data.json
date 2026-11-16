@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T01:48:41Z",
+ "generated": "2026-11-16T03:11:10Z",
  "source": "CarMall ARISUN 輪胎商品頁之常見車款尺寸對照表",
  "category_url": "https://www.carmall.com.tw/categories/brandlist/arisun",
  "stats": {
@@ -423,6 +423,7 @@
  "brands": [
   {
    "name": "AEON",
+   "tw": "宏佳騰",
    "models": [
     {
      "name": "STR 250",
@@ -488,6 +489,7 @@
   },
   {
    "name": "GOGORO",
+   "tw": "",
    "models": [
     {
      "name": "S2",
@@ -549,6 +551,7 @@
   },
   {
    "name": "KYMCO",
+   "tw": "光陽",
    "models": [
     {
      "name": "G6 150",
@@ -728,6 +731,7 @@
   },
   {
    "name": "SYM",
+   "tw": "三陽",
    "models": [
     {
      "name": "DRGBT",
@@ -889,6 +893,7 @@
   },
   {
    "name": "YAMAHA",
+   "tw": "山葉",
    "models": [
     {
      "name": "AUGUR",
