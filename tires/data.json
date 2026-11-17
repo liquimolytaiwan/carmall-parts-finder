@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T04:22:57Z",
+ "generated": "2026-11-17T12:40:15Z",
  "source": "CarMall ARISUN 輪胎商品頁之常見車款尺寸對照表",
  "category_url": "https://www.carmall.com.tw/categories/brandlist/arisun",
  "stats": {
@@ -196,6 +196,7 @@
    "product_id": 72973329,
    "title": "ARISUN RS01／RS02｜競賽級熱熔胎",
    "url": "https://www.carmall.com.tw/products/arisun-rs01rs02競賽級全熱熔胎?variant=89891513",
+   "sku": "ARI-RS11207013",
    "price": 2100.0,
    "qty": 4,
    "available": true,
@@ -234,6 +235,7 @@
    "product_id": 72973329,
    "title": "ARISUN RS01／RS02｜競賽級熱熔胎",
    "url": "https://www.carmall.com.tw/products/arisun-rs01rs02競賽級全熱熔胎?variant=89891515",
+   "sku": "ARI-RS21307013",
    "price": 2200.0,
    "qty": 4,
    "available": true,
